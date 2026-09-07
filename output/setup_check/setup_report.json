@@ -1,0 +1,11 @@
+{
+  "blender_version": "5.2.1 LTS",
+  "render_engine": "CYCLES",
+  "device": "GPU",
+  "gpu_devices": [
+    "Apple M3 Pro (GPU - 18 cores)"
+  ],
+  "objects": 9,
+  "blend_file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/output/setup_check/setup_check.blend",
+  "render_file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/output/setup_check/setup_check.png"
+}
