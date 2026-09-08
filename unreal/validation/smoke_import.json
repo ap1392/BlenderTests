@@ -1,0 +1,220 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "status": "imported;100cm cube verified; orientation basis measured",
+  "assets": [
+    {
+      "id": "SM_CalibrationCube_1m",
+      "asset": "/Game/ISEC/Validation/SM_CalibrationCube_1m.SM_CalibrationCube_1m",
+      "bounds_cm": {
+        "min": [
+          0.0,
+          -100.0,
+          0.0
+        ],
+        "max": [
+          100.00001525878906,
+          1.5099580195965245e-05,
+          100.0
+        ]
+      },
+      "extent_cm": [
+        100.00001525878906,
+        100.0000150995802,
+        100.0
+      ],
+      "material_slots": [
+        "WorldGridMaterial"
+      ]
+    },
+    {
+      "id": "SM_Axis_X",
+      "asset": "/Game/ISEC/Validation/SM_Axis_X.SM_Axis_X",
+      "bounds_cm": {
+        "min": [
+          190.0,
+          -9.999971389770508,
+          -10.0
+        ],
+        "max": [
+          209.99998474121094,
+          10.000031471252441,
+          10.0
+        ]
+      },
+      "extent_cm": [
+        19.999984741210938,
+        20.00000286102295,
+        20.0
+      ],
+      "material_slots": [
+        "WorldGridMaterial"
+      ]
+    },
+    {
+      "id": "SM_Axis_Y",
+      "asset": "/Game/ISEC/Validation/SM_Axis_Y.SM_Axis_Y",
+      "bounds_cm": {
+        "min": [
+          -9.999956130981445,
+          -310.0,
+          -10.0
+        ],
+        "max": [
+          10.000046730041504,
+          -290.0,
+          10.0
+        ]
+      },
+      "extent_cm": [
+        20.00000286102295,
+        20.0,
+        20.0
+      ],
+      "material_slots": [
+        "WorldGridMaterial"
+      ]
+    },
+    {
+      "id": "SM_Axis_Z",
+      "asset": "/Game/ISEC/Validation/SM_Axis_Z.SM_Axis_Z",
+      "bounds_cm": {
+        "min": [
+          -10.000001907348633,
+          -10.000001907348633,
+          390.0
+        ],
+        "max": [
+          10.000001907348633,
+          10.000001907348633,
+          410.0
+        ]
+      },
+      "extent_cm": [
+        20.000003814697266,
+        20.000003814697266,
+        20.0
+      ],
+      "material_slots": [
+        "WorldGridMaterial"
+      ]
+    },
+    {
+      "id": "SM_StairRibbon",
+      "asset": "/Game/ISEC/Validation/SM_StairRibbon.SM_StairRibbon",
+      "bounds_cm": {
+        "min": [
+          -154.5,
+          -154.4978790283203,
+          838.9200439453125
+        ],
+        "max": [
+          154.49905395507812,
+          154.49977111816406,
+          1377.8800048828125
+        ]
+      },
+      "extent_cm": [
+        308.9990539550781,
+        308.9976501464844,
+        538.9599609375
+      ],
+      "material_slots": [
+        "Cinematic satin white architectural enamel"
+      ]
+    },
+    {
+      "id": "SM_CurvedRail",
+      "asset": "/Game/ISEC/Validation/SM_CurvedRail.SM_CurvedRail",
+      "bounds_cm": {
+        "min": [
+          -157.5010528564453,
+          -157.54795837402344,
+          542.189453125
+        ],
+        "max": [
+          157.54299926757812,
+          157.51429748535156,
+          987.931640625
+        ]
+      },
+      "extent_cm": [
+        315.04405212402344,
+        315.062255859375,
+        445.7421875
+      ],
+      "material_slots": [
+        "Brushed stainless steel"
+      ]
+    },
+    {
+      "id": "SM_ChairShell",
+      "asset": "/Game/ISEC/Validation/SM_ChairShell.SM_ChairShell",
+      "bounds_cm": {
+        "min": [
+          162.53961181640625,
+          -770.0758666992188,
+          2.300686836242676
+        ],
+        "max": [
+          249.925537109375,
+          -681.6729125976562,
+          162.05349731445312
+        ]
+      },
+      "extent_cm": [
+        87.38592529296875,
+        88.4029541015625,
+        159.75281047821045
+      ],
+      "material_slots": [
+        "Magenta upholstery"
+      ]
+    },
+    {
+      "id": "SM_Glass",
+      "asset": "/Game/ISEC/Validation/SM_Glass.SM_Glass",
+      "bounds_cm": {
+        "min": [
+          -2009.9998779296875,
+          -1235.8614501953125,
+          453.9599914550781
+        ],
+        "max": [
+          1880.0001220703125,
+          -708.8506469726562,
+          761.9200439453125
+        ]
+      },
+      "extent_cm": [
+        3890.0,
+        527.0108032226562,
+        307.9600524902344
+      ],
+      "material_slots": [
+        "Clear architectural glazing"
+      ]
+    }
+  ],
+  "blender_to_unreal_basis_columns": {
+    "X": [
+      0.9999999618530273,
+      1.5020370483398438e-07,
+      0.0
+    ],
+    "Y": [
+      1.5099843343098958e-07,
+      -1.0,
+      0.0
+    ],
+    "Z": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "remaining_checks": [
+    "Compare all bounds using the measured basis",
+    "Inspect normals,glass,UVs and two chair instances in a rendered scene",
+    "Create CineCamera/Sequencer and write one MRQ frame"
+  ]
+}

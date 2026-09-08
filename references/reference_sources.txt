@@ -1,0 +1,82 @@
+ISEC reconstruction reference register — collected 2026-09-06
+
+01 PAYETTE — built project, primary architectural source
+https://www.payette.com/project/northeasternisec/
+Downloaded project HTML and published Level 1, 2, 4 plans; ten professional photos.
+Establishes six-storey central atrium, curved office wing, north glazed lab wing,
+end bridges, ground communal seating, circulation connections and three roof oculi.
+Plans are traced in XY; no readable scale bar or dimension strings in these images.
+Photo credits on source: Keitaro Yoshioka; Ngoc X Doan; Warren Jagger.
+Images retained locally for reference, not used as browser textures.
+
+02 PAYETTE — Spiral Stair, 13 August 2015
+https://www.payette.com/projects/spiral-stair-northeastern-university-isec/
+Built upper stair circular in plan; earlier elliptical version explicitly rejected.
+Fabrication in three segments per full spiral; floor landing connections.
+Article HTML saved. Original archive shop-drawing image URLs returned network
+errors; shop drawings have NOT been read and are not dimension evidence.
+
+03 Summit Engineering — 2017 SENH award
+https://www.summitengineeringinc.com/summit-engineering-receives-2017-senh-excellence-in-structural-engineering-award/
+Primary structural account. Inner/outer plate stringers, bent plate treads,
+intermediate trapezoidal landings, A-frame floor supports, tubular tread framing.
+Lowest flight differs from repeated upper flights. Radial glass guards.
+Read via web tool; reference-image download unavailable.
+
+04 PAYETTE — Below Grade, 29 April 2014
+https://www.payette.com/projects/northeastern-university-isec-below-grade/
+Columbus entrance at L1; pedestrian bridge entrance at L2; wide connecting stair;
+auditorium partly embedded in grade. Used for circulation hierarchy, not details
+of unbuilt design images.
+
+05 PAYETTE — Interiors Update, 29 September 2016
+https://www.payette.com/?p=7219
+Grey/white layered interior, charcoal carpet, bright social hubs, blue/green
+furniture. Photograph slide-6-7 used to establish gallery seating and kitchenette.
+
+06 PAYETTE — From Oocyte to City and Back
+https://www.payette.com/projects/from-oocyte-to-city-and-back/
+Three distinct skylights, context and construction-stage description.
+
+07 Northeastern Global News — ISEC launches, 3 April 2017
+https://news.northeastern.edu/2017/04/03/isec-launches/
+Independent university confirmation of occupied atrium and built white spiral.
+
+08 Northeastern Global News — ISEC Reflections, 16 March 2017
+https://news.northeastern.edu/2017/03/16/isec-reflections-in-photos/
+Twenty-six full-resolution photographs and an alternate overhead image recovered
+and visually inspected in references/fidelity/atrium. EXIF recorded in calibration.
+
+09 PAYETTE — YDC tour, 15 August 2018
+https://www.payette.com/projects/ydc-tour-northeastern-university-isec-2/
+Confirms north labs / south offices separated by the central circulation atrium.
+
+10 WAUSAU TILE — Northeastern University project
+https://wausautile.com/Projects/Northeastern-University.cfm
+Four built stair photographs; lightE31 epoxy terrazzo and three nosing stripes.
+Original JPEG EXIF gives65mm,24mm and58mm for matched stair views.
+
+11 BOSTON BCDC2013 presentation
+Local references/fidelity/atrium/boston_2013.pdf and research report retain source.
+Sections39–41 give explicit14ft6in floor spacing; design-stage dimensional evidence.
+
+12 PAYETTE full-resolution L4 plan
+https://www.payette.com/wp-content/uploads/2019/03/plan_northeastern_level-4-01.png
+2550x1650 source resolves closed double-door throats, diagonal kitchenette sink
+counter and full closed oval island. Coordinate crops and reports retained.
+
+13 NORTHEASTERN HOUSING —780Columbus
+https://housing.northeastern.edu/780-columbus/
+Partial exterior material/story-count reference, combined with actual end-lounge
+photo; building identification and metric placement remain inferred.
+
+Current validation mapping is references/fidelity/calibration/camera_register.json.
+Twelve REF cameras map directly to local source photographs. AUDIT cameras are
+independent geometry checks, not photographic matches. Older numbered cameras,
+web files and renders/final belong to the preceding prototype.
+
+MATERIAL PROVENANCE
+blender/assets/textures/isec_board_formed_concrete_reconstruction_v1.png is a
+new AI-generated texture using Wausau2 as a visual material reference. It is not
+source photography or a scanned original material. The original output is retained;
+the project asset is packed into the Blender master and tagged in its material.

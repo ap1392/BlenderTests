@@ -1,0 +1,17 @@
+# Independent quality assessment after 31–45
+
+Reviewed REF01_Payette_atrium_terrace45, AUDIT_End_to_core_terrace45, REF12_Roof_reverse_terrace45, AUDIT_Lower_connection_audit43, AUDIT_Midlevel_return_audit43, REF03_Social_hub_ceiling41 and REF09_Ground_wide_roof44. These are small previews; the final large queue is still running.
+
+Architecture is materially stronger. The lower stair now reads as a continuous connection; the occupied L2 terrace gives the concrete enclosure an intelligible upper edge and use; the upper stair has substantial white ribbon profiles; and the kitchenette finally reads as a recessed alcove with a projecting bar. Ground and roof audit views show the same coherent multi-level arrangement, rather than features assembled for only the hero camera. Roof apertures, laboratory curtain wall, office gallery and bridge stack remain recognizable from opposite ends.
+
+I do not see a newly demonstrated major architectural defect in these previews that justifies disrupting the final queue. The old frontal stair obstruction is not evident as a transverse blocking slab in the latest connection audit. The midlevel return is an intentionally close/occluded viewpoint, not evidence by itself of broken geometry. Images alone do not verify collision or traversability.
+
+The hero remains an approximate photographic match: the foreground gallery elbow and near-left stacked balcony silhouettes differ from the reference. Camera tests established that moving far southwest makes the match worse. This is an acknowledged residual mismatch, not grounds for another speculative global camera sweep.
+
+It is not yet photorealistic. The strongest remaining perceptual gaps are the repetitive, shallow laboratory/office interiors behind broad blue spandrels; visibly simplified and repeated furniture silhouettes; unusually rippled/distorting stair glass; and a very clean, uniformly bright material/lighting response. Raising sample count will improve noise and edges, but will not remove these gaps. The synthetic concrete bitmap now provides a more credible horizontal board pattern, but must continue to be described as an AI reconstruction rather than a scan of ISEC.
+
+Appropriate claim: a substantially refined, reference-guided architectural reconstruction with consistent multi-view geometry and approximate materials/furnishings. Inappropriate claim: a measured digital twin, exact photo match, or finished photorealistic replica.
+
+## Post-47 glass preview check
+
+Compared REF07_Stair_elevation_glass47.png directly with REF07_Stair_elevation_portal34.png at their native preview resolution. No new conspicuous optical defect is visible: glass remains transparent, the guard profile is continuous, and no large opaque patches or abrupt broken refraction appeared. Any improvement in glass distortion is modest at this resolution, rather than a dramatic visible change; bright curved reflections and some local distortion remain in both images. Changed architecture behind the lower panels prevents treating that area as a controlled optical comparison. The earlier statement about unusually distorted glass should therefore be treated as a finding on the pre-47 geometry, pending inspection of the restarted high-resolution render. The analytic-normal/concentric-thickness correction is technically sensible, but I cannot independently establish a substantial visual improvement from these small previews alone. This does not change the assessment that the reconstruction is not yet photorealistic.

@@ -1,0 +1,93 @@
+Reconstruction confidence and dimensional register
+
+Absolute dimensions remain INFERRED, not a measured survey.
+Plan coordinate origin = pixel (806,480) on Payette 1600x1035 L4 image.
+Blender X = (pixel X - 806)*0.10 m; Y = (480-pixel Y)*0.10 m.
+Z up. This is an image-aligned coordinate frame, NOT surveyed true north.
+Scale 0.10 m/pixel is provisional, based on stair and furniture apparent scale.
+Upper stair outer radius 3.0m, inner radius 1.48m; width 1.52m, provisional.
+Floors 0, 4.4196, 8.8392, 13.2588, 17.6784, 22.098m; roof26.5176m.
+The14ft6in floor spacing is explicit in the BCDC2013 design-stage section;
+it is stronger evidence than the provisional XY scale, but not an as-built survey.
+Upper flight: 30 risers of .14732m, three enlarged landing sectors. Circular topology
+is documented; exact tread count, rise, angular subdivision and landing widths
+are not established by shop drawings and must not be advertised as exact.
+Atrium approximately 40m long, variable 8–20m across from traced floor plan.
+Three skylights are documented. Rebuilt as tapered rounded triangular apertures;
+positions, taper and dimensions remain photographically constrained approximations.
+
+WELL DOCUMENTED in overall visible layout:
+- Central atrium and repeated upper curved public galleries.
+- Built circular stair topology and white stringer / glass guard construction.
+- North glazed frontage and slab spandrels.
+These classifications describe reference coverage, not survey-level dimensions.
+
+PARTIALLY DOCUMENTED:
+- Lowest stair: distinct noncircular sweep from L1/L2 plans and oblique photographs.
+- Gallery social hubs: visible furniture families and kitchenette fronts only.
+- Lab/write-up frontage: limited visible desk and ceiling geometry. No invented
+  detailed lab interiors, equipment layouts or accessible lab rooms.
+- Ground classroom boundaries: plans, doors, limited visible shell.
+- Immediate exterior: enclosing glazing and ground context; no campus reproduction.
+
+INSUFFICIENTLY DOCUMENTED / intentionally closed:
+- Private offices, full laboratories, lift interiors, service stairs and basements.
+- Auditorium interior has one useful professional photo and plan, but insufficient
+  independent detail for confident full reconstruction in this iteration.
+- Meeting-room interiors beyond visible public glazing.
+
+Photo material interpretation:
+Pale grey terrazzo; charcoal carpet; white steel/plaster; brushed steel rails;
+clear glazing with blue-grey spandrels; oak slats; magenta high-backed seats,
+petrol-blue lounge chairs and yellow-green sofas. Colours are approximations
+under neutral daylight, not manufacturer-matched specifications.
+
+Model must continue to be labeled provisional until camera-fit and arbitrary-view
+validation are complete. Attractive rendering does not establish fidelity.
+
+CURRENT FIDELITY PASS NOTES — supersedes prototype dimensions and topology
+The lower flight retains its visible L1 plan trace and now terminates at the upper
+annulus start midpoint(1.528,-1.638,H). Its previous hidden continuation collided
+with the floor tongue. Clear width1.52m and30risers match the upper transition;
+these remain constrained reconstruction values rather than shop dimensions.
+The large concrete volume is the auditorium east wall, not a staircase core.
+Its raised entry segment follows the interruption in the L1 heavy wall line.
+The upper stair ascends clockwise, with documented intermediate landings.
+
+The L4 plan supports the diagonal sink counter and closed oval island, approximately
+1.3x2.4m centered(-.45,-8.05). Its canopy is photograph-informed, not traced from
+a reflected-ceiling plan. Repetition across levels remains inferred.
+The western closed social doorway is plan-supported; its401–419 photo attribution
+is uncertain, so that number was not applied. The eastern360–379 room range is
+photographed; other floor digits on the same portal are inferred and tagged.
+
+One shallow partial Columbus Avenue facade provides only the documented direction
+and visible building character. Exact spacing, module width and probable780Columbus
+identity remain inferred; this is not a campus reconstruction.
+
+Concrete uses a clearly tagged AI-generated material texture reconstructed from
+Wausau's wall photograph. It is not a recovered concrete scan or manufacturer map.
+The mural uses only an unobstructed crop of a published photo, not an original art
+file. Other PBR finishes and furniture geometry remain visual approximations.
+
+Twelve source-comparison cameras and three arbitrary audit views are provided.
+EXIF constrains several lenses; camera positions, shifts and crops remain fitted.
+Current limitations and each camera's five main discrepancies are recorded in
+fidelity/camera_discrepancies.md and remaining_fidelity_work.md. No claim of an
+exact photographic match, surveyed as-built geometry or completed campus is made.
+The browser remains the earlier prototype; this phase refines the Blender master.
+
+L2 auditorium terrace: its presence, occupied lounge use and distinct footprint
+are supported by the L2 plan and Northeastern photograph 026. The fitted boundary,
+meeting-frontage modules and individual furniture coordinates remain approximate.
+The terrace floor is inset within the concrete wall to avoid coincident surfaces.
+Curved glass uses concentric surfaces and radial shading normals; exact glass
+fabrication panel sizes and hardware dimensions remain inferred.
+
+Ground classroom frontage now follows the L1 plan: four nearly straight fields,
+eight closed single doors and three white circular columns. Door finish and oak
+surrounds follow built photography. Glass height, vision-strip dimensions and
+shallow classroom furniture rows remain approximate. Legacy standing furniture
+was shifted clear of the plan columns; exact individual table positions are not
+surveyed. Five unsupported upper social chairs were corrected by moving complete
+seating groups inward; no camera-specific visibility workaround was used.

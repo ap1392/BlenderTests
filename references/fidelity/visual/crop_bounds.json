@@ -1,0 +1,93 @@
+{
+  "slide-6-7-1600x900.jpg": {
+    "source": "references/images/slide-6-7-1600x900.jpg",
+    "crop_pillow_xyxy_exclusive": [
+      171,
+      0,
+      1429,
+      900
+    ],
+    "size": [
+      1258,
+      900
+    ]
+  },
+  "slide-7-6-1600x900.jpg": {
+    "source": "references/images/slide-7-6-1600x900.jpg",
+    "crop_pillow_xyxy_exclusive": [
+      251,
+      0,
+      1349,
+      900
+    ],
+    "size": [
+      1098,
+      900
+    ]
+  },
+  "slide-8-3-1600x900.jpg": {
+    "source": "references/images/slide-8-3-1600x900.jpg",
+    "crop_pillow_xyxy_exclusive": [
+      0,
+      64,
+      1600,
+      836
+    ],
+    "size": [
+      1600,
+      772
+    ]
+  },
+  "wausau4.jpeg": {
+    "source": "references/fidelity/stair/wausau4.jpeg",
+    "crop_pillow_xyxy_exclusive": [
+      0,
+      0,
+      467,
+      700
+    ],
+    "size": [
+      467,
+      700
+    ]
+  },
+  "wausau3.jpeg": {
+    "source": "references/fidelity/stair/wausau3.jpeg",
+    "crop_pillow_xyxy_exclusive": [
+      0,
+      0,
+      467,
+      700
+    ],
+    "size": [
+      467,
+      700
+    ]
+  },
+  "wausau2.jpeg": {
+    "source": "references/fidelity/stair/wausau2.jpeg",
+    "crop_pillow_xyxy_exclusive": [
+      0,
+      0,
+      467,
+      700
+    ],
+    "size": [
+      467,
+      700
+    ]
+  },
+  "wausau1.jpeg": {
+    "source": "references/fidelity/stair/wausau1.jpeg",
+    "crop_pillow_xyxy_exclusive": [
+      0,
+      0,
+      467,
+      700
+    ],
+    "size": [
+      467,
+      700
+    ]
+  }
+}

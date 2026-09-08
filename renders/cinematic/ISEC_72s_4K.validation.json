@@ -1,0 +1,17 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "width": 3840,
+      "height": 2160,
+      "r_frame_rate": "24/1",
+      "duration": "72.000000",
+      "nb_read_frames": "1728"
+    }
+  ],
+  "movie": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/ISEC_72s_4K.mp4",
+  "frame_directory": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/unreal/frames",
+  "technical_validation": "passed",
+  "visual_review": "pending"
+}

@@ -1,0 +1,347 @@
+{
+  "batches": [
+    {
+      "batch": "SM_L2_Furniture_Solid_788bce91b1_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 9,
+      "source_objects": [
+        "Gallery magenta bucket 0 Magenta social bucket shell"
+      ],
+      "minimum_area_fbx_units_squared": 1.88271032603543e-12,
+      "maximum_area_fbx_units_squared": 1.854173774639332e-09
+    },
+    {
+      "batch": "SM_L2_Furniture_Solid_8a37a8259c_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "Shared table brushed cable hatch"
+      ],
+      "minimum_area_fbx_units_squared": 2.0980678527848795e-08,
+      "maximum_area_fbx_units_squared": 2.0980678527848795e-08
+    },
+    {
+      "batch": "SM_L2_Furniture_Solid_de5ceb1cbd_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 20,
+      "source_objects": [
+        "Task chair upholstered seat.009",
+        "Task chair upholstered seat.010",
+        "Task chair upholstered seat.011",
+        "Task chair upholstered seat.012",
+        "Task chair upholstered seat.013"
+      ],
+      "minimum_area_fbx_units_squared": 8.344636626134161e-08,
+      "maximum_area_fbx_units_squared": 8.344636626134161e-08
+    },
+    {
+      "batch": "SM_L2_Furniture_Solid_139d210685_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 12,
+      "source_objects": [
+        "Task chair upholstered seat",
+        "Task chair upholstered seat.001",
+        "Task chair upholstered seat.002"
+      ],
+      "minimum_area_fbx_units_squared": 8.344636626134161e-08,
+      "maximum_area_fbx_units_squared": 8.344636626134161e-08
+    },
+    {
+      "batch": "SM_L2_Furniture_Solid_15e183064d_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 32,
+      "source_objects": [
+        "Task chair upholstered seat.014",
+        "Task chair upholstered seat.015",
+        "Task chair upholstered seat.016",
+        "Task chair upholstered seat.017",
+        "Task chair upholstered seat.018",
+        "Task chair upholstered seat.019",
+        "Task chair upholstered seat.020",
+        "Task chair upholstered seat.021"
+      ],
+      "minimum_area_fbx_units_squared": 8.344636626134161e-08,
+      "maximum_area_fbx_units_squared": 8.344636626134161e-08
+    },
+    {
+      "batch": "SM_L2_Furniture_Solid_c3516f88e6_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 3,
+      "source_objects": [
+        "East lounge rounded headrest",
+        "East lounge rounded headrest.001",
+        "East lounge rounded headrest.002"
+      ],
+      "minimum_area_fbx_units_squared": 5.586571205640212e-09,
+      "maximum_area_fbx_units_squared": 5.586571205640212e-09
+    },
+    {
+      "batch": "SM_L2_Furniture_Solid_6609786547_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 8,
+      "source_objects": [
+        "Task chair upholstered seat.022",
+        "Task chair upholstered seat.023"
+      ],
+      "minimum_area_fbx_units_squared": 8.344636626134161e-08,
+      "maximum_area_fbx_units_squared": 8.344636626134161e-08
+    },
+    {
+      "batch": "SM_L3_Furniture_Solid_ad23c1460d_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "East lounge two seat cushion.001"
+      ],
+      "minimum_area_fbx_units_squared": 7.200244453997584e-07,
+      "maximum_area_fbx_units_squared": 7.200244453997584e-07
+    },
+    {
+      "batch": "SM_L4_Furniture_Solid_e46f035ffe_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 12,
+      "source_objects": [
+        "Kitchenette pale oak stool seat.006",
+        "Kitchenette pale oak stool seat.007",
+        "Kitchenette pale oak stool seat.008"
+      ],
+      "minimum_area_fbx_units_squared": 2.2154586076794658e-07,
+      "maximum_area_fbx_units_squared": 2.215469976363238e-07
+    },
+    {
+      "batch": "SM_L4_Furniture_Solid_f2a51d7732_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 8,
+      "source_objects": [
+        "Task chair upholstered seat.054",
+        "Task chair upholstered seat.055"
+      ],
+      "minimum_area_fbx_units_squared": 1.66893642017385e-07,
+      "maximum_area_fbx_units_squared": 1.66893642017385e-07
+    },
+    {
+      "batch": "SM_L4_Furniture_Solid_04a76a332a_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 24,
+      "source_objects": [
+        "Task chair upholstered seat.056",
+        "Task chair upholstered seat.057",
+        "Task chair upholstered seat.058",
+        "Task chair upholstered seat.059",
+        "Task chair upholstered seat.060",
+        "Task chair upholstered seat.061"
+      ],
+      "minimum_area_fbx_units_squared": 1.66893642017385e-07,
+      "maximum_area_fbx_units_squared": 1.66893642017385e-07
+    },
+    {
+      "batch": "SM_L4_Furniture_Solid_0bb62cf8ce_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 24,
+      "source_objects": [
+        "Task chair upholstered seat.048",
+        "Task chair upholstered seat.049",
+        "Task chair upholstered seat.050",
+        "Task chair upholstered seat.051",
+        "Task chair upholstered seat.052",
+        "Task chair upholstered seat.053"
+      ],
+      "minimum_area_fbx_units_squared": 1.66893642017385e-07,
+      "maximum_area_fbx_units_squared": 1.66893642017385e-07
+    },
+    {
+      "batch": "SM_L4_Furniture_Solid_a791dd197e_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 32,
+      "source_objects": [
+        "Task chair upholstered seat.062",
+        "Task chair upholstered seat.063",
+        "Task chair upholstered seat.064",
+        "Task chair upholstered seat.065",
+        "Task chair upholstered seat.066",
+        "Task chair upholstered seat.067",
+        "Task chair upholstered seat.068",
+        "Task chair upholstered seat.069"
+      ],
+      "minimum_area_fbx_units_squared": 1.66893642017385e-07,
+      "maximum_area_fbx_units_squared": 1.66893642017385e-07
+    },
+    {
+      "batch": "SM_L4_Furniture_Solid_ff01b02731_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "Task chair upholstered seat.070",
+        "Task chair upholstered seat.071"
+      ],
+      "minimum_area_fbx_units_squared": 1.66893642017385e-07,
+      "maximum_area_fbx_units_squared": 1.66893642017385e-07
+    },
+    {
+      "batch": "SM_L5_Furniture_Solid_b53db42c9d_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 6,
+      "source_objects": [
+        "Kitchenette pale oak stool seat.009",
+        "Kitchenette pale oak stool seat.010",
+        "Kitchenette pale oak stool seat.011"
+      ],
+      "minimum_area_fbx_units_squared": 4.430921762832586e-07,
+      "maximum_area_fbx_units_squared": 4.430939952726476e-07
+    },
+    {
+      "batch": "SM_L5_Furniture_Solid_53658024fd_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "Task chair upholstered seat.078",
+        "Task chair upholstered seat.079"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L5_Furniture_Solid_5d9370bbc4_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 12,
+      "source_objects": [
+        "Task chair upholstered seat.080",
+        "Task chair upholstered seat.081",
+        "Task chair upholstered seat.082",
+        "Task chair upholstered seat.083",
+        "Task chair upholstered seat.084",
+        "Task chair upholstered seat.085"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L5_Furniture_Solid_d96b396a89_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 14,
+      "source_objects": [
+        "Task chair mesh back.074",
+        "Task chair mesh back.075",
+        "Task chair upholstered seat.072",
+        "Task chair upholstered seat.073",
+        "Task chair upholstered seat.074",
+        "Task chair upholstered seat.075",
+        "Task chair upholstered seat.076",
+        "Task chair upholstered seat.077"
+      ],
+      "minimum_area_fbx_units_squared": 9.07857611309737e-09,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L5_Furniture_Solid_9eac0e17bc_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 16,
+      "source_objects": [
+        "Task chair upholstered seat.086",
+        "Task chair upholstered seat.087",
+        "Task chair upholstered seat.088",
+        "Task chair upholstered seat.089",
+        "Task chair upholstered seat.090",
+        "Task chair upholstered seat.091",
+        "Task chair upholstered seat.092",
+        "Task chair upholstered seat.093"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L5_Furniture_Solid_2c888e3eec_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "Task chair upholstered seat.094",
+        "Task chair upholstered seat.095"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L6_Furniture_Solid_42fd9eb8cb_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "Task chair upholstered seat.102",
+        "Task chair upholstered seat.103"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L6_Furniture_Solid_0e633b1ef6_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 12,
+      "source_objects": [
+        "Task chair upholstered seat.104",
+        "Task chair upholstered seat.105",
+        "Task chair upholstered seat.106",
+        "Task chair upholstered seat.107",
+        "Task chair upholstered seat.108",
+        "Task chair upholstered seat.109"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L6_Furniture_Solid_2498831c2c_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 13,
+      "source_objects": [
+        "Task chair mesh back.096",
+        "Task chair upholstered seat.096",
+        "Task chair upholstered seat.097",
+        "Task chair upholstered seat.098",
+        "Task chair upholstered seat.099",
+        "Task chair upholstered seat.100",
+        "Task chair upholstered seat.101"
+      ],
+      "minimum_area_fbx_units_squared": 1.815715222619474e-08,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L6_Furniture_Solid_9585c8bf46_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 16,
+      "source_objects": [
+        "Task chair upholstered seat.110",
+        "Task chair upholstered seat.111",
+        "Task chair upholstered seat.112",
+        "Task chair upholstered seat.113",
+        "Task chair upholstered seat.114",
+        "Task chair upholstered seat.115",
+        "Task chair upholstered seat.116",
+        "Task chair upholstered seat.117"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    },
+    {
+      "batch": "SM_L6_Furniture_Solid_923aa47dcc_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 5,
+      "source_objects": [
+        "East lounge rounded headrest.012",
+        "East lounge rounded headrest.013",
+        "East lounge rounded headrest.014",
+        "East lounge two seat cushion.004"
+      ],
+      "minimum_area_fbx_units_squared": 2.2346284822560847e-08,
+      "maximum_area_fbx_units_squared": 1.4400493455468677e-06
+    },
+    {
+      "batch": "SM_L6_Furniture_Solid_e80479ebcd_0",
+      "zero_normal_indices": 1,
+      "affected_triangles": 4,
+      "source_objects": [
+        "Task chair upholstered seat.118",
+        "Task chair upholstered seat.119"
+      ],
+      "minimum_area_fbx_units_squared": 3.3378546504536644e-07,
+      "maximum_area_fbx_units_squared": 3.3378546504536644e-07
+    }
+  ]
+}

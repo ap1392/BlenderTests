@@ -1,0 +1,345 @@
+{
+  "status": "exported; Unreal roundtrip NOT yet tested",
+  "fbx_axes": {
+    "forward": "-Y",
+    "up": "Z"
+  },
+  "source_units": "meters",
+  "expected_unreal_cube_side_cm": 100,
+  "axis_marker_centers_blender_m": {
+    "X": [
+      2,
+      0,
+      0
+    ],
+    "Y": [
+      0,
+      3,
+      0
+    ],
+    "Z": [
+      0,
+      0,
+      4
+    ]
+  },
+  "required_checks": [
+    "cube side100cm",
+    "asymmetric axis centers establish exact basis",
+    "all bounds after one unit conversion",
+    "curve evaluated to mesh",
+    "ribbon normals",
+    "glass slot and thickness",
+    "chair shell scale and smooth normals"
+  ],
+  "assets": [
+    {
+      "id": "SM_CalibrationCube_1m",
+      "file": "SM_CalibrationCube_1m.fbx",
+      "source_object": null,
+      "source_world_matrix": null,
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "max_m": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "vertices": 8,
+      "polygons": 6,
+      "material_slots": [],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    },
+    {
+      "id": "SM_Axis_X",
+      "file": "SM_Axis_X.fbx",
+      "source_object": null,
+      "source_world_matrix": null,
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          1.899999976158142,
+          -0.10000000149011612,
+          -0.10000000149011612
+        ],
+        "max_m": [
+          2.0999999046325684,
+          0.10000000149011612,
+          0.10000000149011612
+        ]
+      },
+      "vertices": 8,
+      "polygons": 6,
+      "material_slots": [],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    },
+    {
+      "id": "SM_Axis_Y",
+      "file": "SM_Axis_Y.fbx",
+      "source_object": null,
+      "source_world_matrix": null,
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          -0.10000000149011612,
+          2.9000000953674316,
+          -0.10000000149011612
+        ],
+        "max_m": [
+          0.10000000149011612,
+          3.0999999046325684,
+          0.10000000149011612
+        ]
+      },
+      "vertices": 8,
+      "polygons": 6,
+      "material_slots": [],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    },
+    {
+      "id": "SM_Axis_Z",
+      "file": "SM_Axis_Z.fbx",
+      "source_object": null,
+      "source_world_matrix": null,
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          -0.10000000149011612,
+          -0.10000000149011612,
+          3.9000000953674316
+        ],
+        "max_m": [
+          0.10000000149011612,
+          0.10000000149011612,
+          4.099999904632568
+        ]
+      },
+      "vertices": 8,
+      "polygons": 6,
+      "material_slots": [],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    },
+    {
+      "id": "SM_StairRibbon",
+      "file": "SM_StairRibbon.fbx",
+      "source_object": "L3 smooth spiral white stringer 1.48",
+      "source_world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          -1.5449999570846558,
+          -1.5449976921081543,
+          8.389200210571289
+        ],
+        "max_m": [
+          1.5449905395507812,
+          1.5449788570404053,
+          13.778800010681152
+        ]
+      },
+      "vertices": 1060,
+      "polygons": 1058,
+      "material_slots": [
+        "Cinematic satin white architectural enamel"
+      ],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    },
+    {
+      "id": "SM_CurvedRail",
+      "file": "SM_CurvedRail.fbx",
+      "source_object": "Inset stainless helical handrail",
+      "source_world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          -1.5750105381011963,
+          -1.5751429796218872,
+          5.421894550323486
+        ],
+        "max_m": [
+          1.5754300355911255,
+          1.575479507446289,
+          9.879316329956055
+        ]
+      },
+      "vertices": 2650,
+      "polygons": 2640,
+      "material_slots": [
+        "Brushed stainless steel"
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "id": "SM_ChairShell",
+      "file": "SM_ChairShell.fbx",
+      "source_object": "Ground tall magenta tulip 0 Tall tulip enveloping back",
+      "source_world_matrix": [
+        [
+          0.6967067122459412,
+          0.7173560857772827,
+          0.0,
+          2.0
+        ],
+        [
+          -0.7173560857772827,
+          0.6967067122459412,
+          0.0,
+          7.199999809265137
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          1.6253950595855713,
+          6.816729545593262,
+          0.023006867617368698
+        ],
+        "max_m": [
+          2.4992542266845703,
+          7.700758934020996,
+          1.6205350160598755
+        ]
+      },
+      "vertices": 16274,
+      "polygons": 16278,
+      "material_slots": [
+        "Magenta upholstery"
+      ],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    },
+    {
+      "id": "SM_Glass",
+      "file": "SM_Glass.fbx",
+      "source_object": "L2 clear vision glass",
+      "source_world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "geometry_space": "evaluated Blender world coordinates in meters; FBX unit metadata converts once",
+      "bounds": {
+        "min_m": [
+          -20.100000381469727,
+          7.088503360748291,
+          4.539599895477295
+        ],
+        "max_m": [
+          18.799999237060547,
+          12.35861587524414,
+          7.619200229644775
+        ]
+      },
+      "vertices": 108,
+      "polygons": 106,
+      "material_slots": [
+        "Clear architectural glazing"
+      ],
+      "uv_layers": [
+        "ExportFallbackUV"
+      ]
+    }
+  ]
+}

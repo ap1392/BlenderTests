@@ -1,0 +1,1 @@
+Pause after current frame to reduce GPU working memory with smaller tiles. Preserve completed render.

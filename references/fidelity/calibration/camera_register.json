@@ -1,0 +1,338 @@
+[
+  {
+    "camera": "REF01_Payette_atrium",
+    "location": [
+      20.200000762939453,
+      10.0,
+      6.065252304077148
+    ],
+    "rotation_euler": [
+      1.5707963705062866,
+      -9.67939612905866e-08,
+      1.743727445602417
+    ],
+    "projection": "PERSP",
+    "lens_mm": 22.5,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": null,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.03630559518933296,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/calibration/atrium-slide-10-1600x900.jpg",
+    "render_width": 1149,
+    "render_height": 900,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF02_Reverse_soffit",
+    "location": [
+      1.2000000476837158,
+      -2.5999999046325684,
+      6.25
+    ],
+    "rotation_euler": [
+      1.5306230783462524,
+      -1.3034330947903072e-08,
+      -0.5503858923912048
+    ],
+    "projection": "PERSP",
+    "lens_mm": 22.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": null,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.15000000596046448,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/visual/crop_slide-7-6-1600x900.jpg",
+    "render_width": 1098,
+    "render_height": 900,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF03_Social_hub",
+    "location": [
+      -6.800000190734863,
+      -12.75,
+      10.439000129699707
+    ],
+    "rotation_euler": [
+      1.5707964897155762,
+      8.615334934347629e-08,
+      -0.6276295781135559
+    ],
+    "projection": "PERSP",
+    "lens_mm": 23.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": null,
+    "fisheye_lens": null,
+    "shift_x": -0.054999999701976776,
+    "shift_y": 0.1550000011920929,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/visual/crop_slide-6-7-1600x900.jpg",
+    "render_width": 1258,
+    "render_height": 900,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF04_Writeup",
+    "location": [
+      -14.0,
+      12.600000381469727,
+      6.019599914550781
+    ],
+    "rotation_euler": [
+      1.5707963705062866,
+      8.759825220749917e-08,
+      -1.6828253269195557
+    ],
+    "projection": "PERSP",
+    "lens_mm": 20.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": null,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/visual/crop_slide-8-3-1600x900.jpg",
+    "render_width": 1600,
+    "render_height": 772,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF05_Lower_stair",
+    "location": [
+      12.224137306213379,
+      12.30983829498291,
+      1.5499999523162842
+    ],
+    "rotation_euler": [
+      1.6565382480621338,
+      -1.1743875205638687e-08,
+      2.506796360015869
+    ],
+    "projection": "PERSP",
+    "lens_mm": 65.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": 65,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": -0.05123407393693924,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/stair/wausau2.jpeg",
+    "render_width": 467,
+    "render_height": 700,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF06_Upper_reverse",
+    "location": [
+      -18.0,
+      4.0,
+      14.858799934387207
+    ],
+    "rotation_euler": [
+      1.2872083187103271,
+      -4.301473666146194e-08,
+      -1.7782924175262451
+    ],
+    "projection": "PERSP",
+    "lens_mm": 24.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": 24,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/stair/wausau3.jpeg",
+    "render_width": 467,
+    "render_height": 700,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF07_Stair_elevation",
+    "location": [
+      16.200000762939453,
+      12.300000190734863,
+      14.90880012512207
+    ],
+    "rotation_euler": [
+      1.5218183994293213,
+      -1.4999409359006677e-07,
+      2.2241010665893555
+    ],
+    "projection": "PERSP",
+    "lens_mm": 58.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": 58,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.0010000000474974513,
+    "reference": "references/fidelity/stair/wausau4.jpeg",
+    "render_width": 467,
+    "render_height": 700,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF08_Stair_overhead",
+    "location": [
+      0.75,
+      -0.75,
+      19.30340003967285
+    ],
+    "rotation_euler": [
+      0.34994906187057495,
+      3.995952368995859e-08,
+      0.25224241614341736
+    ],
+    "projection": "PERSP",
+    "lens_mm": 18.0,
+    "sensor_width_mm": 28.87826156616211,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 1.7,
+    "crop_note": "5904-pixel source versus 7360-pixel same-camera source files; approximate crop factor, not recovered raw framing.",
+    "source_exif_focal_mm": 18,
+    "fisheye_lens": null,
+    "shift_x": 0.029999999329447746,
+    "shift_y": -0.03999999910593033,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/atrium/isec_reflections_004-1.jpg",
+    "render_width": 1280,
+    "render_height": 854,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF09_Ground_wide",
+    "location": [
+      13.0,
+      12.5,
+      1.100000023841858
+    ],
+    "rotation_euler": [
+      1.9657948017120361,
+      -2.1039847197812378e-08,
+      1.956678867340088
+    ],
+    "projection": "PERSP",
+    "lens_mm": 16.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": 16,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/atrium/isec_reflections_011.jpg",
+    "render_width": 1917,
+    "render_height": 1279,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF10_Glass_elevation",
+    "location": [
+      -8.0,
+      -6.5,
+      14.90880012512207
+    ],
+    "rotation_euler": [
+      1.5707964897155762,
+      -0.0,
+      0.0
+    ],
+    "projection": "PERSP",
+    "lens_mm": 35.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": 35,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.009999999776482582,
+    "reference": "references/fidelity/atrium/isec_reflections_018.jpg",
+    "render_width": 1923,
+    "render_height": 1280,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF11_End_bridge",
+    "location": [
+      14.350000381469727,
+      1.0399999618530273,
+      10.439200401306152
+    ],
+    "rotation_euler": [
+      1.6060621738433838,
+      5.096818966876526e-08,
+      -0.9098304510116577
+    ],
+    "projection": "PERSP",
+    "lens_mm": 20.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": 20,
+    "fisheye_lens": null,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/atrium/isec_reflections_023.jpg",
+    "render_width": 1923,
+    "render_height": 1280,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  },
+  {
+    "camera": "REF12_Roof_reverse",
+    "location": [
+      -17.0,
+      4.0,
+      23.697999954223633
+    ],
+    "rotation_euler": [
+      1.4756097793579102,
+      -5.537111036346687e-08,
+      -1.61424720287323
+    ],
+    "projection": "PANO",
+    "lens_mm": 15.0,
+    "sensor_width_mm": 36.0,
+    "sensor_height_mm": 24.0,
+    "photographic_exposure": 0.7,
+    "crop_note": null,
+    "source_exif_focal_mm": null,
+    "fisheye_lens": 15.300000190734863,
+    "shift_x": 0.0,
+    "shift_y": 0.0,
+    "clip_start": 0.10000000149011612,
+    "reference": "references/fidelity/atrium/neu_m0413673f.jpg",
+    "render_width": 1400,
+    "render_height": 934,
+    "status": "Iteratively reference compared. EXIF focal length where available; positions, crop and shift approximate."
+  }
+]

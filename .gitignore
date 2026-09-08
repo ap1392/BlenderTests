@@ -11,3 +11,24 @@ __pycache__/
 # Local third-party checkout and its Python environment.
 /integrations/blender-mcp/
 /integrations/blender-mcp-env/
+
+# Generated dependencies, caches, and machine-specific state.
+node_modules/
+web/dist/
+web/.next/
+web/.vinext/
+web/.openai/
+web/.wrangler/
+*.tsbuildinfo
+unreal/ISEC_Cinematic/DerivedDataCache/
+unreal/ISEC_Cinematic/Intermediate/
+unreal/ISEC_Cinematic/Saved/
+unreal/validation/*.log
+unreal/validation/editor_job*.json
+unreal/validation/render_request.json
+# Full-resolution movie is distributed as a GitHub release asset.
+renders/*
+!renders/cinematic/
+renders/cinematic/*
+!renders/cinematic/cycles_heroes/
+!renders/cinematic/ISEC_72s_4K.validation.json

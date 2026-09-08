@@ -1,0 +1,223 @@
+{
+  "complete": true,
+  "materials": [
+    {
+      "source": "Blue grey opaque spandrel",
+      "asset": "/Game/ISEC/Materials/M_Blue_grey_opaque_spandrel_8d96f1.M_Blue_grey_opaque_spandrel_8d96f1",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Board formed grey concrete",
+      "asset": "/Game/ISEC/Materials/M_Board_formed_grey_concrete_55224f.M_Board_formed_grey_concrete_55224f",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Brushed stainless steel",
+      "asset": "/Game/ISEC/Materials/M_Brushed_stainless_steel_a830b2.M_Brushed_stainless_steel_a830b2",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Ceiling acoustic backing",
+      "asset": "/Game/ISEC/Materials/M_Ceiling_acoustic_backing_464313.M_Ceiling_acoustic_backing_464313",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Charcoal carpet",
+      "asset": "/Game/ISEC/Materials/M_Charcoal_carpet_e8626d.M_Charcoal_carpet_e8626d",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Charcoal mullions",
+      "asset": "/Game/ISEC/Materials/M_Charcoal_mullions_9cedd6.M_Charcoal_mullions_9cedd6",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Chartreuse upholstery",
+      "asset": "/Game/ISEC/Materials/M_Chartreuse_upholstery_c884f5.M_Chartreuse_upholstery_c884f5",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Cinematic satin white architectural enamel",
+      "asset": "/Game/ISEC/Materials/M_Cinematic_satin_white_architectural_enamel_f61d30.M_Cinematic_satin_white_architectural_enamel_f61d30",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Clear architectural glazing",
+      "asset": "/Game/ISEC/Materials/M_Clear_architectural_glazing_4fa508_thin_v2.M_Clear_architectural_glazing_4fa508_thin_v2",
+      "translation": "Validated thin-translucent shader; rendered calibration pending"
+    },
+    {
+      "source": "Closed residential window glazing",
+      "asset": "/Game/ISEC/Materials/M_Closed_residential_window_glazing_4b353d.M_Closed_residential_window_glazing_4b353d",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Columbus frontage red brown brick",
+      "asset": "/Game/ISEC/Materials/M_Columbus_frontage_red_brown_brick_616cff.M_Columbus_frontage_red_brown_brick_616cff",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Columbus pale stone trim",
+      "asset": "/Game/ISEC/Materials/M_Columbus_pale_stone_trim_691f1a.M_Columbus_pale_stone_trim_691f1a",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Columbus warm white window frames",
+      "asset": "/Game/ISEC/Materials/M_Columbus_warm_white_window_frames_e3499a.M_Columbus_warm_white_window_frames_e3499a",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Dark gray laboratory piers",
+      "asset": "/Game/ISEC/Materials/M_Dark_gray_laboratory_piers_588f5a.M_Dark_gray_laboratory_piers_588f5a",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Deep olive portal leaf",
+      "asset": "/Game/ISEC/Materials/M_Deep_olive_portal_leaf_20e852.M_Deep_olive_portal_leaf_20e852",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Elevator brushed metal",
+      "asset": "/Game/ISEC/Materials/M_Elevator_brushed_metal_750304.M_Elevator_brushed_metal_750304",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Exit sign red",
+      "asset": "/Game/ISEC/Materials/M_Exit_sign_red_753e6e.M_Exit_sign_red_753e6e",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Exposed dark mechanical plenum",
+      "asset": "/Game/ISEC/Materials/M_Exposed_dark_mechanical_plenum_72c679.M_Exposed_dark_mechanical_plenum_72c679",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Exterior paving",
+      "asset": "/Game/ISEC/Materials/M_Exterior_paving_cc9f6c.M_Exterior_paving_cc9f6c",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Graphite task chair",
+      "asset": "/Game/ISEC/Materials/M_Graphite_task_chair_36d9e3.M_Graphite_task_chair_36d9e3",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Light rift cut white oak",
+      "asset": "/Game/ISEC/Materials/M_Light_rift_cut_white_oak_c33b1e.M_Light_rift_cut_white_oak_c33b1e",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Magenta upholstery",
+      "asset": "/Game/ISEC/Materials/M_Magenta_upholstery_a78f2d.M_Magenta_upholstery_a78f2d",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Natural oak slats",
+      "asset": "/Game/ISEC/Materials/M_Natural_oak_slats_1e4f0d.M_Natural_oak_slats_1e4f0d",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Office charcoal paint",
+      "asset": "/Game/ISEC/Materials/M_Office_charcoal_paint_d21113.M_Office_charcoal_paint_d21113",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Pale grey terrazzo",
+      "asset": "/Game/ISEC/Materials/M_Pale_grey_terrazzo_de8364.M_Pale_grey_terrazzo_de8364",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Petrol blue upholstery",
+      "asset": "/Game/ISEC/Materials/M_Petrol_blue_upholstery_9ea883.M_Petrol_blue_upholstery_9ea883",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Pewter lounge upholstery",
+      "asset": "/Game/ISEC/Materials/M_Pewter_lounge_upholstery_9e2f6d.M_Pewter_lounge_upholstery_9e2f6d",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Reference-derived kitchenette mural detail",
+      "asset": "/Game/ISEC/Materials/M_Reference_derived_kitchenette_mural_detail_f6fd25.M_Reference_derived_kitchenette_mural_detail_f6fd25",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Social hub lime green",
+      "asset": "/Game/ISEC/Materials/M_Social_hub_lime_green_89f630.M_Social_hub_lime_green_89f630",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Stair charcoal abrasive",
+      "asset": "/Game/ISEC/Materials/M_Stair_charcoal_abrasive_fb23a0.M_Stair_charcoal_abrasive_fb23a0",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Stair warm concealed LED",
+      "asset": "/Game/ISEC/Materials/M_Stair_warm_concealed_LED_083225.M_Stair_warm_concealed_LED_083225",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Subtle white ceramic frit",
+      "asset": "/Game/ISEC/Materials/M_Subtle_white_ceramic_frit_32bfbd.M_Subtle_white_ceramic_frit_32bfbd",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Terrace dark woven lounge cloth",
+      "asset": "/Game/ISEC/Materials/M_Terrace_dark_woven_lounge_cloth_865cd8.M_Terrace_dark_woven_lounge_cloth_865cd8",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Terrazzo pale gray inlay",
+      "asset": "/Game/ISEC/Materials/M_Terrazzo_pale_gray_inlay_4d2385.M_Terrazzo_pale_gray_inlay_4d2385",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Tulip dark charcoal textile seat",
+      "asset": "/Game/ISEC/Materials/M_Tulip_dark_charcoal_textile_seat_4ed0db.M_Tulip_dark_charcoal_textile_seat_4ed0db",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Warm gray kitchen cabinets",
+      "asset": "/Game/ISEC/Materials/M_Warm_gray_kitchen_cabinets_ce2f72.M_Warm_gray_kitchen_cabinets_ce2f72",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Warm white chair shell",
+      "asset": "/Game/ISEC/Materials/M_Warm_white_chair_shell_e5a547.M_Warm_white_chair_shell_e5a547",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Warm white diffuser",
+      "asset": "/Game/ISEC/Materials/M_Warm_white_diffuser_76f375.M_Warm_white_diffuser_76f375",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Warm white laboratory epoxy",
+      "asset": "/Game/ISEC/Materials/M_Warm_white_laboratory_epoxy_dc1aa3.M_Warm_white_laboratory_epoxy_dc1aa3",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Warm white painted steel and plaster",
+      "asset": "/Game/ISEC/Materials/M_Warm_white_painted_steel_and_plaster_cace6b.M_Warm_white_painted_steel_and_plaster_cace6b",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Wausau E31 light terrazzo",
+      "asset": "/Game/ISEC/Materials/M_Wausau_E31_light_terrazzo_6e232d.M_Wausau_E31_light_terrazzo_6e232d",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Write-up turquoise ribbed upholstery",
+      "asset": "/Game/ISEC/Materials/M_Write_up_turquoise_ribbed_upholstery_2b55a1.M_Write_up_turquoise_ribbed_upholstery_2b55a1",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    },
+    {
+      "source": "Write-up warm grey carpet",
+      "asset": "/Game/ISEC/Materials/M_Write_up_warm_grey_carpet_b09562.M_Write_up_warm_grey_carpet_b09562",
+      "translation": "Image texture or rebuilt procedural material; requires rendered calibration"
+    }
+  ],
+  "visual_calibration": "pending",
+  "shader_compile_checked": true,
+  "compiler_errors": []
+}

@@ -1,0 +1,19 @@
+00:01.717  blend            | Read blend: "/Users/aditya2610/Desktop/Projects3/BlenderTests/blender/ISEC_Master.blend"
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+ISEC_HERO_BEGIN CINE_03_Upper_ribbon
+08:46.208  render           | Saved: '/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_03_Upper_ribbon.png'
+ISEC_HERO_COMPLETE CINE_03_Upper_ribbon
+ISEC_HERO_BEGIN CINE_04_Social_hub
+16:34.064  render           | Saved: '/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_04_Social_hub.png'
+ISEC_HERO_COMPLETE CINE_04_Social_hub
+ISEC_HERO_BEGIN CINE_05_Stair_well
+28:41.002  render           | Saved: '/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_05_Stair_well.png'
+ISEC_HERO_COMPLETE CINE_05_Stair_well
+ISEC_HERO_QUEUE_COMPLETE
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

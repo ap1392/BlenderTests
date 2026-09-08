@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Architecture",
+  "Description": "Presentation project derived from the authoritative ISEC Blender master.",
+  "Plugins": [
+    {"Name": "PythonScriptPlugin", "Enabled": true},
+    {"Name": "EditorScriptingUtilities", "Enabled": true},
+    {"Name": "SequencerScripting", "Enabled": true},
+    {"Name": "MovieRenderPipeline", "Enabled": true}
+  ]
+}

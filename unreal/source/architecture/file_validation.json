@@ -1,0 +1,1022 @@
+{
+  "passed": true,
+  "batches": 203,
+  "vertices": 2426873,
+  "results": [
+    {
+      "asset": "SM_L1_Atrium_Solid_5cad7f5255_0",
+      "vertices": 1004,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Ceiling_Solid_3675fe80ee_0",
+      "vertices": 3982,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_CurtainWall_Solid_5ee4acf5b9_0",
+      "vertices": 108,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Exterior_Glass_a7a47e4180_0",
+      "vertices": 64,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Exterior_Solid_917df68e64_0",
+      "vertices": 496,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_8986afcefe_0",
+      "vertices": 8012,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_ebf048cf55_0",
+      "vertices": 9336,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_16c17b117f_0",
+      "vertices": 168,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_36a50f474f_0",
+      "vertices": 3000,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_0f4e0cbe73_0",
+      "vertices": 85450,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_0f4e0cbe73_1",
+      "vertices": 62902,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_2c483db502_0",
+      "vertices": 11586,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_dd076da402_0",
+      "vertices": 10336,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_cd3a3ad8ee_0",
+      "vertices": 17788,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Furniture_Solid_c55a43d220_0",
+      "vertices": 6264,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Lighting_Solid_42fc1f69a2_0",
+      "vertices": 3528,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_76d58e8ddd_0",
+      "vertices": 32,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_564d0e1f46_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_ebbdaa4a08_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_46bbbbc3a5_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_3e35925073_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_d46cb25f0a_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_fd4ecb14bd_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_e8429dc6f5_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Glass_4640a1e80b_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_24cdbc6e94_0",
+      "vertices": 1670,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_d1a737a482_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_1b6d03bd78_0",
+      "vertices": 24,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_53813ea194_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_7c3d75f9cb_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_8c8d53ec32_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_7b76941e8e_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_f58abbfcbb_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_950ec2e5ae_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_ba5a4904c6_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Rooms_Solid_e34a9a1c00_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Staircase_Glass_d5160cbb5a_0",
+      "vertices": 1584,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Staircase_Solid_0335fa62b5_0",
+      "vertices": 11786,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Architecture_Solid_8ae1033a8b_0",
+      "vertices": 2280,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Atrium_Solid_5cdc7e89ca_0",
+      "vertices": 12,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Ceiling_Solid_3cdcecdf1c_0",
+      "vertices": 3730,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_CurtainWall_Glass_80d232984b_0",
+      "vertices": 108,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_CurtainWall_Solid_d18a11c35b_0",
+      "vertices": 3564,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Exterior_Glass_7a37c14a6a_0",
+      "vertices": 64,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Exterior_Solid_11c6661c27_0",
+      "vertices": 624,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_6bea38cbe9_0",
+      "vertices": 40,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_297db82f04_0",
+      "vertices": 5404,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Lighting_Solid_958809afcb_0",
+      "vertices": 3204,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Railings_Glass_23e5ab03a3_0",
+      "vertices": 240,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Railings_Solid_75d30bd011_0",
+      "vertices": 1444,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Glass_65d4402ac4_0",
+      "vertices": 332,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_eaefef6fb6_0",
+      "vertices": 2430,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_2d70ddac1a_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_15bcffc766_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_50451b8a89_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_876a1e116b_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_945323b284_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_877d18753d_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_c358a279a6_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Rooms_Solid_3febc15357_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Staircase_Glass_09af5912c1_0",
+      "vertices": 2136,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Staircase_Solid_a1bb0390e5_0",
+      "vertices": 16898,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Architecture_Solid_01686e71a1_0",
+      "vertices": 2142,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Ceiling_Solid_868718d2f8_0",
+      "vertices": 3974,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Exterior_Glass_4557a7f539_0",
+      "vertices": 128,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Exterior_Solid_e568fbe43f_0",
+      "vertices": 784,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_08f3896760_0",
+      "vertices": 77154,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_08f3896760_1",
+      "vertices": 76162,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_08f3896760_2",
+      "vertices": 76262,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_7150932f1c_0",
+      "vertices": 984,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_c9b9e4fbec_0",
+      "vertices": 8736,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_9884ace37e_0",
+      "vertices": 79114,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_9884ace37e_1",
+      "vertices": 37569,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_c3c5bddf90_0",
+      "vertices": 5404,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_086f9ca20d_0",
+      "vertices": 672,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_2d82cfaee3_0",
+      "vertices": 8884,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_23bc2aed37_0",
+      "vertices": 4312,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Lighting_Glass_d6948f928f_0",
+      "vertices": 108,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Lighting_Solid_b85bcb7747_0",
+      "vertices": 6768,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Railings_Glass_bffd44ec15_0",
+      "vertices": 248,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Railings_Solid_f3e45c3d34_0",
+      "vertices": 1464,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Glass_34c195a94e_0",
+      "vertices": 260,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_5ce4bc6aa0_0",
+      "vertices": 2438,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_4cdbe9cfc0_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_42d10e4a93_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_2f07399524_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_3421c7bbf8_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_da2d3c00b6_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_bb4f009496_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_2f913d84d3_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Rooms_Solid_720b721ec9_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Staircase_Glass_94cc144f9c_0",
+      "vertices": 2376,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Staircase_Solid_f13211c37b_0",
+      "vertices": 17514,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Architecture_Solid_3256e06213_0",
+      "vertices": 2142,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Ceiling_Solid_748ed0fc09_0",
+      "vertices": 3974,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Exterior_Glass_e04c679ade_0",
+      "vertices": 80,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Exterior_Solid_e33d4b8980_0",
+      "vertices": 968,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_1ffca0f173_0",
+      "vertices": 5404,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_d7e11e11f7_0",
+      "vertices": 672,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_4abf177947_0",
+      "vertices": 6064,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Lighting_Glass_0470b8d143_0",
+      "vertices": 108,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Lighting_Solid_262311b547_0",
+      "vertices": 6768,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Railings_Glass_7bd17e31ea_0",
+      "vertices": 248,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Railings_Solid_3192cb6c64_0",
+      "vertices": 1464,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Glass_3bb2292c88_0",
+      "vertices": 260,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_c33f971a4c_0",
+      "vertices": 3046,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_a7bd135d3c_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_427fa664d1_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_0f7a0f8bff_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_a1a1bb6ade_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_e7a070c60c_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_b283aba4fb_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_479da84025_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Rooms_Solid_8139728ba4_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Staircase_Glass_3c1d0c04bc_0",
+      "vertices": 2376,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Staircase_Solid_fb70c8a344_0",
+      "vertices": 17514,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Architecture_Solid_419ee59c73_0",
+      "vertices": 2142,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Ceiling_Solid_f606121942_0",
+      "vertices": 3974,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Exterior_Solid_499d6a5204_0",
+      "vertices": 32,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_c8f334d405_0",
+      "vertices": 5404,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_b53238ebff_0",
+      "vertices": 672,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_1c766fe523_0",
+      "vertices": 6064,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Lighting_Glass_5758a800b6_0",
+      "vertices": 108,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Lighting_Solid_efb58a678e_0",
+      "vertices": 6768,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Railings_Glass_13324a695e_0",
+      "vertices": 248,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Railings_Solid_79703db18b_0",
+      "vertices": 1464,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Glass_02526410a4_0",
+      "vertices": 260,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_e085ec85cc_0",
+      "vertices": 2438,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_1e3cdd0dc9_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_ac0035e765_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_2a143bf835_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_113c8498ba_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_b2631477fd_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_b4985722b4_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_b746c7982d_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Rooms_Solid_488f11f530_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Staircase_Glass_fd8124be51_0",
+      "vertices": 2376,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Staircase_Solid_ec864085cd_0",
+      "vertices": 17514,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Architecture_Solid_6383d46ddf_0",
+      "vertices": 710,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Ceiling_Solid_f30f007762_0",
+      "vertices": 7858,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Exterior_Solid_959df9e2a4_0",
+      "vertices": 16,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_3e0a457490_0",
+      "vertices": 77154,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_3e0a457490_1",
+      "vertices": 76162,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_3e0a457490_2",
+      "vertices": 76262,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_5a73cbc518_0",
+      "vertices": 5404,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_39facaa728_0",
+      "vertices": 672,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Lighting_Glass_25c1c7d49c_0",
+      "vertices": 108,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Lighting_Solid_4e77c58216_0",
+      "vertices": 6084,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Railings_Glass_5aa75b3f6f_0",
+      "vertices": 248,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Railings_Solid_2bdb7d7827_0",
+      "vertices": 1464,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Glass_c8c385c892_0",
+      "vertices": 260,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_24b84148dc_0",
+      "vertices": 2438,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_a4c0bd0b1f_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_f594c6a8f3_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_f72d3b2a83_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_548a4f3b77_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_e33429205c_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_d79b8c3db0_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_9c6de1e748_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Rooms_Solid_b7f092f832_0",
+      "vertices": 8,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Staircase_Glass_a36628837e_0",
+      "vertices": 576,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Staircase_Solid_f59b4dc701_0",
+      "vertices": 760,
+      "errors": []
+    },
+    {
+      "asset": "SM_L7_Ceiling_Glass_6691e9aa48_0",
+      "vertices": 720,
+      "errors": []
+    },
+    {
+      "asset": "SM_L7_Ceiling_Solid_57558f223e_0",
+      "vertices": 5757,
+      "errors": []
+    },
+    {
+      "asset": "SM_L1_Architecture_Solid_052c643e3b_0",
+      "vertices": 5870,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_115fae71c1_0",
+      "vertices": 672,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_788bce91b1_0",
+      "vertices": 98362,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_788bce91b1_1",
+      "vertices": 76162,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_788bce91b1_2",
+      "vertices": 76162,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_788bce91b1_3",
+      "vertices": 57781,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_8a37a8259c_0",
+      "vertices": 8700,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_de5ceb1cbd_0",
+      "vertices": 8320,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_139d210685_0",
+      "vertices": 78034,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_139d210685_1",
+      "vertices": 48721,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_15e183064d_0",
+      "vertices": 8884,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_c3516f88e6_0",
+      "vertices": 6064,
+      "errors": []
+    },
+    {
+      "asset": "SM_L2_Furniture_Solid_6609786547_0",
+      "vertices": 4312,
+      "errors": []
+    },
+    {
+      "asset": "SM_L3_Furniture_Solid_ad23c1460d_0",
+      "vertices": 6064,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_e46f035ffe_0",
+      "vertices": 77154,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_e46f035ffe_1",
+      "vertices": 76162,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_e46f035ffe_2",
+      "vertices": 76262,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_f2a51d7732_0",
+      "vertices": 984,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_04a76a332a_0",
+      "vertices": 8736,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_0bb62cf8ce_0",
+      "vertices": 79114,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_0bb62cf8ce_1",
+      "vertices": 37569,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_a791dd197e_0",
+      "vertices": 8884,
+      "errors": []
+    },
+    {
+      "asset": "SM_L4_Furniture_Solid_ff01b02731_0",
+      "vertices": 4312,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_b53db42c9d_0",
+      "vertices": 77154,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_b53db42c9d_1",
+      "vertices": 76162,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_b53db42c9d_2",
+      "vertices": 76262,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_53658024fd_0",
+      "vertices": 984,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_5d9370bbc4_0",
+      "vertices": 8736,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_d96b396a89_0",
+      "vertices": 79114,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_d96b396a89_1",
+      "vertices": 37569,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_9eac0e17bc_0",
+      "vertices": 8884,
+      "errors": []
+    },
+    {
+      "asset": "SM_L5_Furniture_Solid_2c888e3eec_0",
+      "vertices": 4312,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_42fd9eb8cb_0",
+      "vertices": 984,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_0e633b1ef6_0",
+      "vertices": 8736,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_2498831c2c_0",
+      "vertices": 79114,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_2498831c2c_1",
+      "vertices": 37569,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_9585c8bf46_0",
+      "vertices": 8884,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_923aa47dcc_0",
+      "vertices": 6064,
+      "errors": []
+    },
+    {
+      "asset": "SM_L6_Furniture_Solid_e80479ebcd_0",
+      "vertices": 4312,
+      "errors": []
+    }
+  ]
+}

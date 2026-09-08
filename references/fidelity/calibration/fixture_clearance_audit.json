@@ -1,0 +1,216 @@
+{
+  "fixture_count": 52,
+  "blade_objects_checked": 1831,
+  "intersections": [],
+  "fixtures": [
+    {
+      "fixture": "Ground drum luminaire housing",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.001",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.002",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.003",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.004",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.005",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.006",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.007",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.008",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.009",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.010",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Ground drum luminaire housing.011",
+      "minimum_blade_clearance_m": 0.06999993324279785
+    },
+    {
+      "fixture": "Lobby drum housing",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.001",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.002",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.003",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.007",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.008",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.009",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.010",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.014",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.015",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.016",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.017",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.021",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.022",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.023",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.024",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.028",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.029",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.030",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Lobby drum housing.031",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.001",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.002",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.003",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.004",
+      "minimum_blade_clearance_m": 0.07000064849853516
+    },
+    {
+      "fixture": "Social pod varied drum housing.005",
+      "minimum_blade_clearance_m": 0.07000064849853516
+    },
+    {
+      "fixture": "Social pod varied drum housing.006",
+      "minimum_blade_clearance_m": 0.07000064849853516
+    },
+    {
+      "fixture": "Social pod varied drum housing.007",
+      "minimum_blade_clearance_m": 0.07000064849853516
+    },
+    {
+      "fixture": "Social pod varied drum housing.008",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.009",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.010",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.011",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.012",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.013",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.014",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.015",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.016",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.017",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.018",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    },
+    {
+      "fixture": "Social pod varied drum housing.019",
+      "minimum_blade_clearance_m": 0.06999969482421875
+    }
+  ],
+  "scope": "Circle-versus-blade bounding-envelope test at each fixture, including distinct ground and gallery ceiling elevations."
+}

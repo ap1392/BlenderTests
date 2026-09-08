@@ -1,0 +1,509 @@
+[
+  {
+    "file": "references/fidelity/stair/wausau4.jpeg",
+    "size": [
+      467,
+      700
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D800",
+      "FocalLength": "58.0",
+      "ExposureTime": "2.0",
+      "FNumber": "22.0",
+      "ISOSpeedRatings": "100",
+      "LensModel": "24.0-120.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "58"
+    }
+  },
+  {
+    "file": "references/fidelity/stair/wausau3.jpeg",
+    "size": [
+      467,
+      700
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D800",
+      "FocalLength": "24.0",
+      "ExposureTime": "1.3",
+      "FNumber": "22.0",
+      "ISOSpeedRatings": "100",
+      "LensModel": "24.0-120.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "24"
+    }
+  },
+  {
+    "file": "references/fidelity/stair/wausau2.jpeg",
+    "size": [
+      467,
+      700
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D800",
+      "FocalLength": "65.0",
+      "ExposureTime": "3.0",
+      "FNumber": "18.0",
+      "ISOSpeedRatings": "100",
+      "LensModel": "24.0-120.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "65"
+    }
+  },
+  {
+    "file": "references/fidelity/stair/wausau1.jpeg",
+    "size": [
+      467,
+      700
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D800",
+      "FocalLength": "55.0",
+      "ExposureTime": "2.5",
+      "FNumber": "22.0",
+      "ISOSpeedRatings": "100",
+      "LensModel": "24.0-120.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "55"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_013.jpg",
+    "size": [
+      6631,
+      4425
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "16.0",
+      "ExposureTime": "0.00015625",
+      "FNumber": "6.3",
+      "ISOSpeedRatings": "640",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "16"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_012.jpg",
+    "size": [
+      3578,
+      2381
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "92.0",
+      "ExposureTime": "0.005",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "92"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_006.jpg",
+    "size": [
+      2135,
+      3207
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "70.0",
+      "ExposureTime": "0.004",
+      "FNumber": "5.0",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "70"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_010.jpg",
+    "size": [
+      4783,
+      3184
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "44.0",
+      "ExposureTime": "0.0005",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "24.0-70.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "44"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_004.jpg",
+    "size": [
+      5904,
+      3940
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "18.0",
+      "ExposureTime": "0.005",
+      "FNumber": "4.5",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "18"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_005.jpg",
+    "size": [
+      4418,
+      2941
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "35.0",
+      "ExposureTime": "0.02",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "35"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_011.jpg",
+    "size": [
+      7261,
+      4846
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "16.0",
+      "ExposureTime": "0.008",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "16"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_015.jpg",
+    "size": [
+      3192,
+      2032
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "120.0",
+      "ExposureTime": "0.002",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "120"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_001.jpg",
+    "size": [
+      4800,
+      3196
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "16.0",
+      "ExposureTime": "0.02",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "16"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_014.jpg",
+    "size": [
+      4928,
+      3280
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "70.0",
+      "ExposureTime": "0.001",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "640",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "70"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_002.jpg",
+    "size": [
+      6930,
+      4625
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "102.0",
+      "ExposureTime": "0.000125",
+      "FNumber": "5.0",
+      "ISOSpeedRatings": "160",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "102"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_016.jpg",
+    "size": [
+      2222,
+      3340
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "35.0",
+      "ExposureTime": "0.0005",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "100",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "35"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_017.jpg",
+    "size": [
+      4360,
+      2903
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "160.0",
+      "ExposureTime": "0.003125",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "160"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_003.jpg",
+    "size": [
+      4368,
+      2908
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "135.0",
+      "ExposureTime": "0.0002",
+      "FNumber": "3.5",
+      "ISOSpeedRatings": "320",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "135"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_026.jpg",
+    "size": [
+      7360,
+      4912
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "ExposureTime": "0.002",
+      "ISOSpeedRatings": "800",
+      "LensModel": "0.0 mm f/0.0"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_025.jpg",
+    "size": [
+      2220,
+      1477
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "200.0",
+      "ExposureTime": "0.000125",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "640",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "200"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_019.jpg",
+    "size": [
+      4737,
+      3153
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "58.0",
+      "ExposureTime": "0.0005",
+      "FNumber": "2.8",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "24.0-70.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "58"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_018.jpg",
+    "size": [
+      4579,
+      3047
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "35.0",
+      "ExposureTime": "0.016666666666666666",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "35"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_024.jpg",
+    "size": [
+      6627,
+      4423
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "35.0",
+      "ExposureTime": "0.000125",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "800",
+      "LensModel": "35.0 mm f/1.4",
+      "FocalLengthIn35mmFilm": "35"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_008.jpg",
+    "size": [
+      4297,
+      2860
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "35.0",
+      "ExposureTime": "0.0003125",
+      "FNumber": "8.0",
+      "ISOSpeedRatings": "80",
+      "LensModel": "35.0 mm f/1.4",
+      "FocalLengthIn35mmFilm": "35"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_020.jpg",
+    "size": [
+      4928,
+      3280
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "16.0",
+      "ExposureTime": "0.1",
+      "FNumber": "16.0",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "16"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_004-1.jpg",
+    "size": [
+      5904,
+      3940
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "18.0",
+      "ExposureTime": "0.005",
+      "FNumber": "4.5",
+      "ISOSpeedRatings": "1600",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "18"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_021.jpg",
+    "size": [
+      4637,
+      3086
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "70.0",
+      "ExposureTime": "0.00015625",
+      "FNumber": "5.0",
+      "ISOSpeedRatings": "400",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "70"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_009.jpg",
+    "size": [
+      1973,
+      3041
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "70.0",
+      "ExposureTime": "0.000625",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "70.0-200.0 mm f/2.8",
+      "FocalLengthIn35mmFilm": "70"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_023.jpg",
+    "size": [
+      4728,
+      3147
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D4",
+      "FocalLength": "20.0",
+      "ExposureTime": "0.02",
+      "FNumber": "4.0",
+      "ISOSpeedRatings": "1250",
+      "LensModel": "16.0-35.0 mm f/4.0",
+      "FocalLengthIn35mmFilm": "20"
+    }
+  },
+  {
+    "file": "references/fidelity/atrium/isec_reflections_022.jpg",
+    "size": [
+      6800,
+      4538
+    ],
+    "metadata": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D810",
+      "FocalLength": "35.0",
+      "ExposureTime": "0.0015625",
+      "FNumber": "2.2",
+      "ISOSpeedRatings": "800",
+      "LensModel": "35.0 mm f/1.4",
+      "FocalLengthIn35mmFilm": "35"
+    }
+  }
+]

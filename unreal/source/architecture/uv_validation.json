@@ -1,0 +1,1226 @@
+{
+  "passed": false,
+  "files": 203,
+  "collapsed_uv_faces": 0,
+  "zero_normals": 26,
+  "results": [
+    {
+      "file": "SM_L1_Architecture_Solid_052c643e3b_0.fbx",
+      "faces": 11452,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Atrium_Solid_5cad7f5255_0.fbx",
+      "faces": 1944,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Ceiling_Solid_3675fe80ee_0.fbx",
+      "faces": 6292,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_CurtainWall_Solid_5ee4acf5b9_0.fbx",
+      "faces": 212,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Exterior_Glass_a7a47e4180_0.fbx",
+      "faces": 96,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Exterior_Solid_917df68e64_0.fbx",
+      "faces": 744,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_0f4e0cbe73_0.fbx",
+      "faces": 169920,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_0f4e0cbe73_1.fbx",
+      "faces": 125320,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_16c17b117f_0.fbx",
+      "faces": 324,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_2c483db502_0.fbx",
+      "faces": 21692,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_36a50f474f_0.fbx",
+      "faces": 5648,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_8986afcefe_0.fbx",
+      "faces": 14136,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_c55a43d220_0.fbx",
+      "faces": 11808,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_cd3a3ad8ee_0.fbx",
+      "faces": 33624,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_dd076da402_0.fbx",
+      "faces": 20568,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Furniture_Solid_ebf048cf55_0.fbx",
+      "faces": 17616,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Lighting_Solid_42fc1f69a2_0.fbx",
+      "faces": 6756,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_3e35925073_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_4640a1e80b_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_46bbbbc3a5_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_564d0e1f46_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_76d58e8ddd_0.fbx",
+      "faces": 48,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_d46cb25f0a_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_e8429dc6f5_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_ebbdaa4a08_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Glass_fd4ecb14bd_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_1b6d03bd78_0.fbx",
+      "faces": 44,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_24cdbc6e94_0.fbx",
+      "faces": 2880,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_53813ea194_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_7b76941e8e_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_7c3d75f9cb_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_8c8d53ec32_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_950ec2e5ae_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_ba5a4904c6_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_d1a737a482_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_e34a9a1c00_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Rooms_Solid_f58abbfcbb_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Staircase_Glass_d5160cbb5a_0.fbx",
+      "faces": 2968,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L1_Staircase_Solid_0335fa62b5_0.fbx",
+      "faces": 21172,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Architecture_Solid_8ae1033a8b_0.fbx",
+      "faces": 4333,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Atrium_Solid_5cdc7e89ca_0.fbx",
+      "faces": 20,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Ceiling_Solid_3cdcecdf1c_0.fbx",
+      "faces": 6208,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_CurtainWall_Glass_80d232984b_0.fbx",
+      "faces": 212,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_CurtainWall_Solid_d18a11c35b_0.fbx",
+      "faces": 6896,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Exterior_Glass_7a37c14a6a_0.fbx",
+      "faces": 96,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Exterior_Solid_11c6661c27_0.fbx",
+      "faces": 936,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_115fae71c1_0.fbx",
+      "faces": 1176,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_139d210685_0.fbx",
+      "faces": 153662,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_139d210685_1.fbx",
+      "faces": 95752,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_15e183064d_0.fbx",
+      "faces": 15966,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_297db82f04_0.fbx",
+      "faces": 9624,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_6609786547_0.fbx",
+      "faces": 7720,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_6bea38cbe9_0.fbx",
+      "faces": 60,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_788bce91b1_0.fbx",
+      "faces": 188244,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_788bce91b1_1.fbx",
+      "faces": 150296,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_788bce91b1_2.fbx",
+      "faces": 150296,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_788bce91b1_3.fbx",
+      "faces": 113200,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_8a37a8259c_0.fbx",
+      "faces": 16066,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_c3516f88e6_0.fbx",
+      "faces": 11816,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Furniture_Solid_de5ceb1cbd_0.fbx",
+      "faces": 14896,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L2_Lighting_Solid_958809afcb_0.fbx",
+      "faces": 6032,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Railings_Glass_23e5ab03a3_0.fbx",
+      "faces": 464,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Railings_Solid_75d30bd011_0.fbx",
+      "faces": 2684,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Glass_65d4402ac4_0.fbx",
+      "faces": 548,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_15bcffc766_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_2d70ddac1a_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_3febc15357_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_50451b8a89_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_876a1e116b_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_877d18753d_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_945323b284_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_c358a279a6_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Rooms_Solid_eaefef6fb6_0.fbx",
+      "faces": 4274,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Staircase_Glass_09af5912c1_0.fbx",
+      "faces": 4024,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L2_Staircase_Solid_a1bb0390e5_0.fbx",
+      "faces": 32104,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Architecture_Solid_01686e71a1_0.fbx",
+      "faces": 4061,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Ceiling_Solid_868718d2f8_0.fbx",
+      "faces": 6692,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Exterior_Glass_4557a7f539_0.fbx",
+      "faces": 192,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Exterior_Solid_e568fbe43f_0.fbx",
+      "faces": 1176,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_086f9ca20d_0.fbx",
+      "faces": 1162,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_08f3896760_0.fbx",
+      "faces": 151980,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_08f3896760_1.fbx",
+      "faces": 150296,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_08f3896760_2.fbx",
+      "faces": 150604,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_23bc2aed37_0.fbx",
+      "faces": 7688,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_2d82cfaee3_0.fbx",
+      "faces": 15850,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_7150932f1c_0.fbx",
+      "faces": 1796,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_9884ace37e_0.fbx",
+      "faces": 155550,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_9884ace37e_1.fbx",
+      "faces": 74268,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_ad23c1460d_0.fbx",
+      "faces": 11832,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_c3c5bddf90_0.fbx",
+      "faces": 9624,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Furniture_Solid_c9b9e4fbec_0.fbx",
+      "faces": 15560,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Lighting_Glass_d6948f928f_0.fbx",
+      "faces": 212,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Lighting_Solid_b85bcb7747_0.fbx",
+      "faces": 12928,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Railings_Glass_bffd44ec15_0.fbx",
+      "faces": 484,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Railings_Solid_f3e45c3d34_0.fbx",
+      "faces": 2744,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Glass_34c195a94e_0.fbx",
+      "faces": 440,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_2f07399524_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_2f913d84d3_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_3421c7bbf8_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_42d10e4a93_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_4cdbe9cfc0_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_5ce4bc6aa0_0.fbx",
+      "faces": 4174,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_720b721ec9_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_bb4f009496_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Rooms_Solid_da2d3c00b6_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Staircase_Glass_94cc144f9c_0.fbx",
+      "faces": 4488,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L3_Staircase_Solid_f13211c37b_0.fbx",
+      "faces": 33312,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Architecture_Solid_3256e06213_0.fbx",
+      "faces": 4061,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Ceiling_Solid_748ed0fc09_0.fbx",
+      "faces": 6692,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Exterior_Glass_e04c679ade_0.fbx",
+      "faces": 120,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Exterior_Solid_e33d4b8980_0.fbx",
+      "faces": 1588,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_04a76a332a_0.fbx",
+      "faces": 15632,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_0bb62cf8ce_0.fbx",
+      "faces": 155634,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_0bb62cf8ce_1.fbx",
+      "faces": 74268,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_1ffca0f173_0.fbx",
+      "faces": 9624,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_4abf177947_0.fbx",
+      "faces": 11810,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_a791dd197e_0.fbx",
+      "faces": 15966,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_d7e11e11f7_0.fbx",
+      "faces": 1172,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_e46f035ffe_0.fbx",
+      "faces": 152052,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_e46f035ffe_1.fbx",
+      "faces": 150296,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_e46f035ffe_2.fbx",
+      "faces": 150604,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_f2a51d7732_0.fbx",
+      "faces": 1844,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L4_Furniture_Solid_ff01b02731_0.fbx",
+      "faces": 7720,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L4_Lighting_Glass_0470b8d143_0.fbx",
+      "faces": 212,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Lighting_Solid_262311b547_0.fbx",
+      "faces": 12928,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Railings_Glass_7bd17e31ea_0.fbx",
+      "faces": 484,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Railings_Solid_3192cb6c64_0.fbx",
+      "faces": 2744,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Glass_3bb2292c88_0.fbx",
+      "faces": 440,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_0f7a0f8bff_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_427fa664d1_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_479da84025_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_8139728ba4_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_a1a1bb6ade_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_a7bd135d3c_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_b283aba4fb_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_c33f971a4c_0.fbx",
+      "faces": 5294,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Rooms_Solid_e7a070c60c_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Staircase_Glass_3c1d0c04bc_0.fbx",
+      "faces": 4488,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L4_Staircase_Solid_fb70c8a344_0.fbx",
+      "faces": 33312,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Architecture_Solid_419ee59c73_0.fbx",
+      "faces": 4061,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Ceiling_Solid_f606121942_0.fbx",
+      "faces": 6692,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Exterior_Solid_499d6a5204_0.fbx",
+      "faces": 48,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_1c766fe523_0.fbx",
+      "faces": 11810,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_2c888e3eec_0.fbx",
+      "faces": 7720,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_53658024fd_0.fbx",
+      "faces": 1844,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_5d9370bbc4_0.fbx",
+      "faces": 15632,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_9eac0e17bc_0.fbx",
+      "faces": 15968,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_b53238ebff_0.fbx",
+      "faces": 1172,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_b53db42c9d_0.fbx",
+      "faces": 152052,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_b53db42c9d_1.fbx",
+      "faces": 150296,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_b53db42c9d_2.fbx",
+      "faces": 150604,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_c8f334d405_0.fbx",
+      "faces": 9624,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_d96b396a89_0.fbx",
+      "faces": 155640,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L5_Furniture_Solid_d96b396a89_1.fbx",
+      "faces": 74268,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Lighting_Glass_5758a800b6_0.fbx",
+      "faces": 212,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Lighting_Solid_efb58a678e_0.fbx",
+      "faces": 12928,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Railings_Glass_13324a695e_0.fbx",
+      "faces": 484,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Railings_Solid_79703db18b_0.fbx",
+      "faces": 2744,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Glass_02526410a4_0.fbx",
+      "faces": 440,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_113c8498ba_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_1e3cdd0dc9_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_2a143bf835_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_488f11f530_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_ac0035e765_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_b2631477fd_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_b4985722b4_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_b746c7982d_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Rooms_Solid_e085ec85cc_0.fbx",
+      "faces": 4174,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Staircase_Glass_fd8124be51_0.fbx",
+      "faces": 4488,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L5_Staircase_Solid_ec864085cd_0.fbx",
+      "faces": 33312,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Architecture_Solid_6383d46ddf_0.fbx",
+      "faces": 1225,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Ceiling_Solid_f30f007762_0.fbx",
+      "faces": 13232,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Exterior_Solid_959df9e2a4_0.fbx",
+      "faces": 24,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_0e633b1ef6_0.fbx",
+      "faces": 15632,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_2498831c2c_0.fbx",
+      "faces": 155640,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_2498831c2c_1.fbx",
+      "faces": 74268,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_39facaa728_0.fbx",
+      "faces": 1172,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_3e0a457490_0.fbx",
+      "faces": 152004,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_3e0a457490_1.fbx",
+      "faces": 150296,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_3e0a457490_2.fbx",
+      "faces": 150604,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_42fd9eb8cb_0.fbx",
+      "faces": 1844,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_5a73cbc518_0.fbx",
+      "faces": 9624,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_923aa47dcc_0.fbx",
+      "faces": 11838,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_9585c8bf46_0.fbx",
+      "faces": 15970,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L6_Furniture_Solid_e80479ebcd_0.fbx",
+      "faces": 7720,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 1
+    },
+    {
+      "file": "SM_L6_Lighting_Glass_25c1c7d49c_0.fbx",
+      "faces": 212,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Lighting_Solid_4e77c58216_0.fbx",
+      "faces": 11660,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Railings_Glass_5aa75b3f6f_0.fbx",
+      "faces": 484,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Railings_Solid_2bdb7d7827_0.fbx",
+      "faces": 2744,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Glass_c8c385c892_0.fbx",
+      "faces": 440,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_24b84148dc_0.fbx",
+      "faces": 4174,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_548a4f3b77_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_9c6de1e748_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_a4c0bd0b1f_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_b7f092f832_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_d79b8c3db0_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_e33429205c_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_f594c6a8f3_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Rooms_Solid_f72d3b2a83_0.fbx",
+      "faces": 12,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Staircase_Glass_a36628837e_0.fbx",
+      "faces": 1088,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L6_Staircase_Solid_f59b4dc701_0.fbx",
+      "faces": 1364,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L7_Ceiling_Glass_6691e9aa48_0.fbx",
+      "faces": 1428,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    },
+    {
+      "file": "SM_L7_Ceiling_Solid_57558f223e_0.fbx",
+      "faces": 10622,
+      "collapsed_uv_faces": 0,
+      "zero_normals": 0
+    }
+  ]
+}

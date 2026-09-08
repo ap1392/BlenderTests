@@ -1,0 +1,98 @@
+{
+  "complete": true,
+  "presets": [
+    {
+      "mode": "Review",
+      "shot": 1,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Review_01.ISEC_Review_01",
+      "start": 143,
+      "end_exclusive": 144
+    },
+    {
+      "mode": "Final",
+      "shot": 1,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Final_01.ISEC_Final_01",
+      "start": 0,
+      "end_exclusive": 288
+    },
+    {
+      "mode": "Review",
+      "shot": 2,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Review_02.ISEC_Review_02",
+      "start": 431,
+      "end_exclusive": 432
+    },
+    {
+      "mode": "Final",
+      "shot": 2,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Final_02.ISEC_Final_02",
+      "start": 288,
+      "end_exclusive": 576
+    },
+    {
+      "mode": "Review",
+      "shot": 3,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Review_03.ISEC_Review_03",
+      "start": 719,
+      "end_exclusive": 720
+    },
+    {
+      "mode": "Final",
+      "shot": 3,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Final_03.ISEC_Final_03",
+      "start": 576,
+      "end_exclusive": 864
+    },
+    {
+      "mode": "Review",
+      "shot": 4,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Review_04.ISEC_Review_04",
+      "start": 1007,
+      "end_exclusive": 1008
+    },
+    {
+      "mode": "Final",
+      "shot": 4,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Final_04.ISEC_Final_04",
+      "start": 864,
+      "end_exclusive": 1152
+    },
+    {
+      "mode": "Review",
+      "shot": 5,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Review_05.ISEC_Review_05",
+      "start": 1295,
+      "end_exclusive": 1296
+    },
+    {
+      "mode": "Final",
+      "shot": 5,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Final_05.ISEC_Final_05",
+      "start": 1152,
+      "end_exclusive": 1440
+    },
+    {
+      "mode": "Review",
+      "shot": 6,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Review_06.ISEC_Review_06",
+      "start": 1583,
+      "end_exclusive": 1584
+    },
+    {
+      "mode": "Final",
+      "shot": 6,
+      "asset": "/Game/ISEC/Cinematics/ISEC_Final_06.ISEC_Final_06",
+      "start": 1440,
+      "end_exclusive": 1728
+    }
+  ],
+  "resolution": [
+    3840,
+    2160
+  ],
+  "temporal_samples": 8,
+  "game_mode": "/Script/MovieRenderPipelineCore.MoviePipelineGameMode",
+  "final_render_warmup_samples": 64,
+  "final_local_shadow_cap": 1024,
+  "final_sun_cascade_cap": 4096
+}

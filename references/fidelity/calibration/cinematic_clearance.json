@@ -1,0 +1,7 @@
+{
+  "sampled_camera_positions": 150,
+  "camera_clearance_radius_m": 0.15,
+  "surface_proximity_issues": [],
+  "evaluated_nearby_meshes": 9,
+  "scope": "Camera center proximity to evaluated visible surfaces. Does not certify all frustum rays, path interiors or Unreal import; moving preview review also required."
+}

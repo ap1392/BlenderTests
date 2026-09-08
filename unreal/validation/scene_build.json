@@ -1,0 +1,1273 @@
+{
+  "complete": true,
+  "actors": [
+    {
+      "label": "SM_L1_Atrium_Solid_5cad7f5255_0",
+      "source_objects": 16,
+      "normal_rebuild": false,
+      "render_triangles": 1944
+    },
+    {
+      "label": "SM_L1_Ceiling_Solid_3675fe80ee_0",
+      "source_objects": 418,
+      "normal_rebuild": false,
+      "render_triangles": 6292
+    },
+    {
+      "label": "SM_L1_CurtainWall_Solid_5ee4acf5b9_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 212
+    },
+    {
+      "label": "SM_L1_Exterior_Glass_a7a47e4180_0",
+      "source_objects": 8,
+      "normal_rebuild": false,
+      "render_triangles": 96
+    },
+    {
+      "label": "SM_L1_Exterior_Solid_917df68e64_0",
+      "source_objects": 62,
+      "normal_rebuild": false,
+      "render_triangles": 744
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_8986afcefe_0",
+      "source_objects": 46,
+      "normal_rebuild": false,
+      "render_triangles": 14136
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_ebf048cf55_0",
+      "source_objects": 264,
+      "normal_rebuild": false,
+      "render_triangles": 17616
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_16c17b117f_0",
+      "source_objects": 3,
+      "normal_rebuild": false,
+      "render_triangles": 324
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_36a50f474f_0",
+      "source_objects": 88,
+      "normal_rebuild": false,
+      "render_triangles": 5648
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_0f4e0cbe73_0",
+      "source_objects": 11,
+      "normal_rebuild": false,
+      "render_triangles": 169920
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_0f4e0cbe73_1",
+      "source_objects": 39,
+      "normal_rebuild": false,
+      "render_triangles": 124800
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_2c483db502_0",
+      "source_objects": 209,
+      "normal_rebuild": false,
+      "render_triangles": 21173
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_dd076da402_0",
+      "source_objects": 26,
+      "normal_rebuild": false,
+      "render_triangles": 20568
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_cd3a3ad8ee_0",
+      "source_objects": 62,
+      "normal_rebuild": false,
+      "render_triangles": 33624
+    },
+    {
+      "label": "SM_L1_Furniture_Solid_c55a43d220_0",
+      "source_objects": 180,
+      "normal_rebuild": false,
+      "render_triangles": 11808
+    },
+    {
+      "label": "SM_L1_Lighting_Solid_42fc1f69a2_0",
+      "source_objects": 75,
+      "normal_rebuild": false,
+      "render_triangles": 6756
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_76d58e8ddd_0",
+      "source_objects": 4,
+      "normal_rebuild": false,
+      "render_triangles": 48
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_564d0e1f46_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_ebbdaa4a08_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_46bbbbc3a5_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_3e35925073_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_d46cb25f0a_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_fd4ecb14bd_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_e8429dc6f5_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Glass_4640a1e80b_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_24cdbc6e94_0",
+      "source_objects": 115,
+      "normal_rebuild": false,
+      "render_triangles": 2880
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_d1a737a482_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_1b6d03bd78_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 44
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_53813ea194_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_7c3d75f9cb_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_8c8d53ec32_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_7b76941e8e_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_f58abbfcbb_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_950ec2e5ae_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_ba5a4904c6_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Rooms_Solid_e34a9a1c00_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L1_Staircase_Glass_d5160cbb5a_0",
+      "source_objects": 50,
+      "normal_rebuild": false,
+      "render_triangles": 2968
+    },
+    {
+      "label": "SM_L1_Staircase_Solid_0335fa62b5_0",
+      "source_objects": 150,
+      "normal_rebuild": false,
+      "render_triangles": 21172
+    },
+    {
+      "label": "SM_L2_Architecture_Solid_8ae1033a8b_0",
+      "source_objects": 19,
+      "normal_rebuild": false,
+      "render_triangles": 4111
+    },
+    {
+      "label": "SM_L2_Atrium_Solid_5cdc7e89ca_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 20
+    },
+    {
+      "label": "SM_L2_Ceiling_Solid_3cdcecdf1c_0",
+      "source_objects": 313,
+      "normal_rebuild": false,
+      "render_triangles": 6208
+    },
+    {
+      "label": "SM_L2_CurtainWall_Glass_80d232984b_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 212
+    },
+    {
+      "label": "SM_L2_CurtainWall_Solid_d18a11c35b_0",
+      "source_objects": 58,
+      "normal_rebuild": false,
+      "render_triangles": 6896
+    },
+    {
+      "label": "SM_L2_Exterior_Glass_7a37c14a6a_0",
+      "source_objects": 8,
+      "normal_rebuild": false,
+      "render_triangles": 96
+    },
+    {
+      "label": "SM_L2_Exterior_Solid_11c6661c27_0",
+      "source_objects": 78,
+      "normal_rebuild": false,
+      "render_triangles": 936
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_6bea38cbe9_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 60
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_297db82f04_0",
+      "source_objects": 272,
+      "normal_rebuild": false,
+      "render_triangles": 9624
+    },
+    {
+      "label": "SM_L2_Lighting_Solid_958809afcb_0",
+      "source_objects": 94,
+      "normal_rebuild": false,
+      "render_triangles": 6032
+    },
+    {
+      "label": "SM_L2_Railings_Glass_23e5ab03a3_0",
+      "source_objects": 4,
+      "normal_rebuild": false,
+      "render_triangles": 464
+    },
+    {
+      "label": "SM_L2_Railings_Solid_75d30bd011_0",
+      "source_objects": 39,
+      "normal_rebuild": false,
+      "render_triangles": 2684
+    },
+    {
+      "label": "SM_L2_Rooms_Glass_65d4402ac4_0",
+      "source_objects": 29,
+      "normal_rebuild": false,
+      "render_triangles": 548
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_eaefef6fb6_0",
+      "source_objects": 146,
+      "normal_rebuild": false,
+      "render_triangles": 4274
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_2d70ddac1a_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_15bcffc766_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_50451b8a89_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_876a1e116b_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_945323b284_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_877d18753d_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_c358a279a6_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Rooms_Solid_3febc15357_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L2_Staircase_Glass_09af5912c1_0",
+      "source_objects": 62,
+      "normal_rebuild": false,
+      "render_triangles": 4024
+    },
+    {
+      "label": "SM_L2_Staircase_Solid_a1bb0390e5_0",
+      "source_objects": 243,
+      "normal_rebuild": false,
+      "render_triangles": 32104
+    },
+    {
+      "label": "SM_L3_Architecture_Solid_01686e71a1_0",
+      "source_objects": 18,
+      "normal_rebuild": false,
+      "render_triangles": 3839
+    },
+    {
+      "label": "SM_L3_Ceiling_Solid_868718d2f8_0",
+      "source_objects": 314,
+      "normal_rebuild": false,
+      "render_triangles": 6692
+    },
+    {
+      "label": "SM_L3_Exterior_Glass_4557a7f539_0",
+      "source_objects": 16,
+      "normal_rebuild": false,
+      "render_triangles": 192
+    },
+    {
+      "label": "SM_L3_Exterior_Solid_e568fbe43f_0",
+      "source_objects": 98,
+      "normal_rebuild": false,
+      "render_triangles": 1176
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_08f3896760_0",
+      "source_objects": 32,
+      "normal_rebuild": false,
+      "render_triangles": 151980
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_08f3896760_1",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 150296
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_08f3896760_2",
+      "source_objects": 26,
+      "normal_rebuild": false,
+      "render_triangles": 150604
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_7150932f1c_0",
+      "source_objects": 31,
+      "normal_rebuild": false,
+      "render_triangles": 1796
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_c9b9e4fbec_0",
+      "source_objects": 398,
+      "normal_rebuild": false,
+      "render_triangles": 15526
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_9884ace37e_0",
+      "source_objects": 85,
+      "normal_rebuild": false,
+      "render_triangles": 155548
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_9884ace37e_1",
+      "source_objects": 10,
+      "normal_rebuild": false,
+      "render_triangles": 74268
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_c3c5bddf90_0",
+      "source_objects": 272,
+      "normal_rebuild": false,
+      "render_triangles": 9624
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_086f9ca20d_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 1152
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_2d82cfaee3_0",
+      "source_objects": 393,
+      "normal_rebuild": false,
+      "render_triangles": 15834
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_23bc2aed37_0",
+      "source_objects": 202,
+      "normal_rebuild": false,
+      "render_triangles": 7656
+    },
+    {
+      "label": "SM_L3_Lighting_Glass_d6948f928f_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 212
+    },
+    {
+      "label": "SM_L3_Lighting_Solid_b85bcb7747_0",
+      "source_objects": 152,
+      "normal_rebuild": false,
+      "render_triangles": 12928
+    },
+    {
+      "label": "SM_L3_Railings_Glass_bffd44ec15_0",
+      "source_objects": 3,
+      "normal_rebuild": false,
+      "render_triangles": 484
+    },
+    {
+      "label": "SM_L3_Railings_Solid_f3e45c3d34_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 2744
+    },
+    {
+      "label": "SM_L3_Rooms_Glass_34c195a94e_0",
+      "source_objects": 20,
+      "normal_rebuild": false,
+      "render_triangles": 440
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_5ce4bc6aa0_0",
+      "source_objects": 175,
+      "normal_rebuild": false,
+      "render_triangles": 4174
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_4cdbe9cfc0_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_42d10e4a93_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_2f07399524_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_3421c7bbf8_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_da2d3c00b6_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_bb4f009496_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_2f913d84d3_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Rooms_Solid_720b721ec9_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L3_Staircase_Glass_94cc144f9c_0",
+      "source_objects": 66,
+      "normal_rebuild": false,
+      "render_triangles": 4488
+    },
+    {
+      "label": "SM_L3_Staircase_Solid_f13211c37b_0",
+      "source_objects": 273,
+      "normal_rebuild": false,
+      "render_triangles": 33312
+    },
+    {
+      "label": "SM_L4_Architecture_Solid_3256e06213_0",
+      "source_objects": 18,
+      "normal_rebuild": false,
+      "render_triangles": 3839
+    },
+    {
+      "label": "SM_L4_Ceiling_Solid_748ed0fc09_0",
+      "source_objects": 314,
+      "normal_rebuild": false,
+      "render_triangles": 6692
+    },
+    {
+      "label": "SM_L4_Exterior_Glass_e04c679ade_0",
+      "source_objects": 10,
+      "normal_rebuild": false,
+      "render_triangles": 120
+    },
+    {
+      "label": "SM_L4_Exterior_Solid_e33d4b8980_0",
+      "source_objects": 87,
+      "normal_rebuild": false,
+      "render_triangles": 1588
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_1ffca0f173_0",
+      "source_objects": 272,
+      "normal_rebuild": false,
+      "render_triangles": 9624
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_d7e11e11f7_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 1152
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_4abf177947_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 11810
+    },
+    {
+      "label": "SM_L4_Lighting_Glass_0470b8d143_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 212
+    },
+    {
+      "label": "SM_L4_Lighting_Solid_262311b547_0",
+      "source_objects": 152,
+      "normal_rebuild": false,
+      "render_triangles": 12928
+    },
+    {
+      "label": "SM_L4_Railings_Glass_7bd17e31ea_0",
+      "source_objects": 3,
+      "normal_rebuild": false,
+      "render_triangles": 484
+    },
+    {
+      "label": "SM_L4_Railings_Solid_3192cb6c64_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 2744
+    },
+    {
+      "label": "SM_L4_Rooms_Glass_3bb2292c88_0",
+      "source_objects": 20,
+      "normal_rebuild": false,
+      "render_triangles": 440
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_c33f971a4c_0",
+      "source_objects": 187,
+      "normal_rebuild": false,
+      "render_triangles": 5294
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_a7bd135d3c_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_427fa664d1_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_0f7a0f8bff_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_a1a1bb6ade_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_e7a070c60c_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_b283aba4fb_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_479da84025_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Rooms_Solid_8139728ba4_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L4_Staircase_Glass_3c1d0c04bc_0",
+      "source_objects": 66,
+      "normal_rebuild": false,
+      "render_triangles": 4488
+    },
+    {
+      "label": "SM_L4_Staircase_Solid_fb70c8a344_0",
+      "source_objects": 273,
+      "normal_rebuild": false,
+      "render_triangles": 33312
+    },
+    {
+      "label": "SM_L5_Architecture_Solid_419ee59c73_0",
+      "source_objects": 18,
+      "normal_rebuild": false,
+      "render_triangles": 3839
+    },
+    {
+      "label": "SM_L5_Ceiling_Solid_f606121942_0",
+      "source_objects": 314,
+      "normal_rebuild": false,
+      "render_triangles": 6692
+    },
+    {
+      "label": "SM_L5_Exterior_Solid_499d6a5204_0",
+      "source_objects": 4,
+      "normal_rebuild": false,
+      "render_triangles": 48
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_c8f334d405_0",
+      "source_objects": 272,
+      "normal_rebuild": false,
+      "render_triangles": 9624
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_b53238ebff_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 1152
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_1c766fe523_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 11810
+    },
+    {
+      "label": "SM_L5_Lighting_Glass_5758a800b6_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 212
+    },
+    {
+      "label": "SM_L5_Lighting_Solid_efb58a678e_0",
+      "source_objects": 152,
+      "normal_rebuild": false,
+      "render_triangles": 12928
+    },
+    {
+      "label": "SM_L5_Railings_Glass_13324a695e_0",
+      "source_objects": 3,
+      "normal_rebuild": false,
+      "render_triangles": 484
+    },
+    {
+      "label": "SM_L5_Railings_Solid_79703db18b_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 2744
+    },
+    {
+      "label": "SM_L5_Rooms_Glass_02526410a4_0",
+      "source_objects": 20,
+      "normal_rebuild": false,
+      "render_triangles": 440
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_e085ec85cc_0",
+      "source_objects": 175,
+      "normal_rebuild": false,
+      "render_triangles": 4174
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_1e3cdd0dc9_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_ac0035e765_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_2a143bf835_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_113c8498ba_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_b2631477fd_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_b4985722b4_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_b746c7982d_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Rooms_Solid_488f11f530_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L5_Staircase_Glass_fd8124be51_0",
+      "source_objects": 66,
+      "normal_rebuild": false,
+      "render_triangles": 4488
+    },
+    {
+      "label": "SM_L5_Staircase_Solid_ec864085cd_0",
+      "source_objects": 273,
+      "normal_rebuild": false,
+      "render_triangles": 33312
+    },
+    {
+      "label": "SM_L6_Architecture_Solid_6383d46ddf_0",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 1225
+    },
+    {
+      "label": "SM_L6_Ceiling_Solid_f30f007762_0",
+      "source_objects": 621,
+      "normal_rebuild": false,
+      "render_triangles": 13232
+    },
+    {
+      "label": "SM_L6_Exterior_Solid_959df9e2a4_0",
+      "source_objects": 2,
+      "normal_rebuild": false,
+      "render_triangles": 24
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_3e0a457490_0",
+      "source_objects": 32,
+      "normal_rebuild": false,
+      "render_triangles": 152004
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_3e0a457490_1",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 150296
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_3e0a457490_2",
+      "source_objects": 26,
+      "normal_rebuild": false,
+      "render_triangles": 150604
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_5a73cbc518_0",
+      "source_objects": 272,
+      "normal_rebuild": false,
+      "render_triangles": 9624
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_39facaa728_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 1164
+    },
+    {
+      "label": "SM_L6_Lighting_Glass_25c1c7d49c_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 212
+    },
+    {
+      "label": "SM_L6_Lighting_Solid_4e77c58216_0",
+      "source_objects": 127,
+      "normal_rebuild": false,
+      "render_triangles": 11660
+    },
+    {
+      "label": "SM_L6_Railings_Glass_5aa75b3f6f_0",
+      "source_objects": 3,
+      "normal_rebuild": false,
+      "render_triangles": 484
+    },
+    {
+      "label": "SM_L6_Railings_Solid_2bdb7d7827_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 2744
+    },
+    {
+      "label": "SM_L6_Rooms_Glass_c8c385c892_0",
+      "source_objects": 20,
+      "normal_rebuild": false,
+      "render_triangles": 440
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_24b84148dc_0",
+      "source_objects": 175,
+      "normal_rebuild": false,
+      "render_triangles": 4174
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_a4c0bd0b1f_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_f594c6a8f3_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_f72d3b2a83_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_548a4f3b77_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_e33429205c_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_d79b8c3db0_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_9c6de1e748_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Rooms_Solid_b7f092f832_0",
+      "source_objects": 1,
+      "normal_rebuild": false,
+      "render_triangles": 12
+    },
+    {
+      "label": "SM_L6_Staircase_Glass_a36628837e_0",
+      "source_objects": 16,
+      "normal_rebuild": false,
+      "render_triangles": 1088
+    },
+    {
+      "label": "SM_L6_Staircase_Solid_f59b4dc701_0",
+      "source_objects": 39,
+      "normal_rebuild": false,
+      "render_triangles": 1364
+    },
+    {
+      "label": "SM_L7_Ceiling_Glass_6691e9aa48_0",
+      "source_objects": 3,
+      "normal_rebuild": false,
+      "render_triangles": 1428
+    },
+    {
+      "label": "SM_L7_Ceiling_Solid_57558f223e_0",
+      "source_objects": 37,
+      "normal_rebuild": false,
+      "render_triangles": 10622
+    },
+    {
+      "label": "SM_L1_Architecture_Solid_052c643e3b_0",
+      "source_objects": 69,
+      "normal_rebuild": false,
+      "render_triangles": 11418
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_115fae71c1_0",
+      "source_objects": 38,
+      "normal_rebuild": false,
+      "render_triangles": 1152
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_788bce91b1_0",
+      "source_objects": 25,
+      "normal_rebuild": true,
+      "render_triangles": 152484
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_788bce91b1_1",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 150296
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_788bce91b1_2",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 150296
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_788bce91b1_3",
+      "source_objects": 58,
+      "normal_rebuild": false,
+      "render_triangles": 109561
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_8a37a8259c_0",
+      "source_objects": 83,
+      "normal_rebuild": true,
+      "render_triangles": 15531
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_de5ceb1cbd_0",
+      "source_objects": 386,
+      "normal_rebuild": true,
+      "render_triangles": 14892
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_139d210685_0",
+      "source_objects": 52,
+      "normal_rebuild": true,
+      "render_triangles": 153662
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_139d210685_1",
+      "source_objects": 31,
+      "normal_rebuild": false,
+      "render_triangles": 93674
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_15e183064d_0",
+      "source_objects": 393,
+      "normal_rebuild": true,
+      "render_triangles": 15966
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_c3516f88e6_0",
+      "source_objects": 38,
+      "normal_rebuild": true,
+      "render_triangles": 11816
+    },
+    {
+      "label": "SM_L2_Furniture_Solid_6609786547_0",
+      "source_objects": 202,
+      "normal_rebuild": true,
+      "render_triangles": 7704
+    },
+    {
+      "label": "SM_L3_Furniture_Solid_ad23c1460d_0",
+      "source_objects": 38,
+      "normal_rebuild": true,
+      "render_triangles": 11832
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_e46f035ffe_0",
+      "source_objects": 32,
+      "normal_rebuild": true,
+      "render_triangles": 151986
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_e46f035ffe_1",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 150296
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_e46f035ffe_2",
+      "source_objects": 26,
+      "normal_rebuild": false,
+      "render_triangles": 150604
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_f2a51d7732_0",
+      "source_objects": 31,
+      "normal_rebuild": true,
+      "render_triangles": 1812
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_04a76a332a_0",
+      "source_objects": 398,
+      "normal_rebuild": true,
+      "render_triangles": 15512
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_0bb62cf8ce_0",
+      "source_objects": 85,
+      "normal_rebuild": true,
+      "render_triangles": 155538
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_0bb62cf8ce_1",
+      "source_objects": 10,
+      "normal_rebuild": false,
+      "render_triangles": 74268
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_a791dd197e_0",
+      "source_objects": 393,
+      "normal_rebuild": true,
+      "render_triangles": 15838
+    },
+    {
+      "label": "SM_L4_Furniture_Solid_ff01b02731_0",
+      "source_objects": 202,
+      "normal_rebuild": true,
+      "render_triangles": 7672
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_b53db42c9d_0",
+      "source_objects": 32,
+      "normal_rebuild": true,
+      "render_triangles": 152052
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_b53db42c9d_1",
+      "source_objects": 14,
+      "normal_rebuild": false,
+      "render_triangles": 150296
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_b53db42c9d_2",
+      "source_objects": 26,
+      "normal_rebuild": false,
+      "render_triangles": 150604
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_53658024fd_0",
+      "source_objects": 31,
+      "normal_rebuild": true,
+      "render_triangles": 1844
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_5d9370bbc4_0",
+      "source_objects": 398,
+      "normal_rebuild": true,
+      "render_triangles": 15612
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_d96b396a89_0",
+      "source_objects": 85,
+      "normal_rebuild": true,
+      "render_triangles": 155640
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_d96b396a89_1",
+      "source_objects": 10,
+      "normal_rebuild": false,
+      "render_triangles": 74268
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_9eac0e17bc_0",
+      "source_objects": 393,
+      "normal_rebuild": true,
+      "render_triangles": 15968
+    },
+    {
+      "label": "SM_L5_Furniture_Solid_2c888e3eec_0",
+      "source_objects": 202,
+      "normal_rebuild": true,
+      "render_triangles": 7708
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_42fd9eb8cb_0",
+      "source_objects": 31,
+      "normal_rebuild": true,
+      "render_triangles": 1844
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_0e633b1ef6_0",
+      "source_objects": 398,
+      "normal_rebuild": true,
+      "render_triangles": 15614
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_2498831c2c_0",
+      "source_objects": 85,
+      "normal_rebuild": true,
+      "render_triangles": 155640
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_2498831c2c_1",
+      "source_objects": 10,
+      "normal_rebuild": false,
+      "render_triangles": 74268
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_9585c8bf46_0",
+      "source_objects": 393,
+      "normal_rebuild": true,
+      "render_triangles": 15969
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_923aa47dcc_0",
+      "source_objects": 38,
+      "normal_rebuild": true,
+      "render_triangles": 11838
+    },
+    {
+      "label": "SM_L6_Furniture_Solid_e80479ebcd_0",
+      "source_objects": 202,
+      "normal_rebuild": true,
+      "render_triangles": 7708
+    }
+  ],
+  "shots": [
+    {
+      "name": "CINE_01_Atrium",
+      "start": 0,
+      "end_exclusive": 288,
+      "lens_mm": 24,
+      "confidence": "Atrium organization HIGH; exact gallery curves MEDIUM/LOW"
+    },
+    {
+      "name": "CINE_02_Lower_stair",
+      "start": 288,
+      "end_exclusive": 576,
+      "lens_mm": 35,
+      "confidence": "Lower stair relationship HIGH; curvature MEDIUM"
+    },
+    {
+      "name": "CINE_03_Upper_ribbon",
+      "start": 576,
+      "end_exclusive": 864,
+      "lens_mm": 50,
+      "confidence": "Upper spiral form HIGH; fabrication MEDIUM/LOW. Stabilized atrium-side rig move, not a pedestrian route."
+    },
+    {
+      "name": "CINE_04_Social_hub",
+      "start": 864,
+      "end_exclusive": 1152,
+      "lens_mm": 32,
+      "confidence": "Documented social feature combination HIGH; canopy and furniture MEDIUM"
+    },
+    {
+      "name": "CINE_05_Stair_well",
+      "start": 1152,
+      "end_exclusive": 1440,
+      "lens_mm": 24,
+      "confidence": "Stair repetition and guards HIGH; exact bottom well contour MEDIUM/LOW"
+    },
+    {
+      "name": "CINE_06_Final_atrium",
+      "start": 1440,
+      "end_exclusive": 1728,
+      "lens_mm": 26,
+      "confidence": "Atrium arrangement HIGH; roof dimensional details LOW and incidental"
+    }
+  ],
+  "lighting": {
+    "source_lights": 159,
+    "intensity_calibration": "initial; needs rendered review",
+    "disk_emitters": "rectangular light approximation; visible fixture geometry preserved"
+  },
+  "visual_review": "pending"
+}

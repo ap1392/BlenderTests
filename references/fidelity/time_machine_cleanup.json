@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-07",
+  "authorization": "User approved thinning local Time Machine snapshots after explanation of lost local restore points.",
+  "command": "tmutil thinlocalsnapshots / 59055800320 4",
+  "removed": [
+    "2026-09-07-044052",
+    "2026-09-07-053817",
+    "2026-09-07-064143",
+    "2026-09-07-074056",
+    "2026-09-07-083718"
+  ],
+  "remaining_time_machine_snapshot": "2026-09-07-093732",
+  "free_before_GiB_rounded": 24,
+  "free_after_GiB_rounded": 84,
+  "external_backups_modified": false,
+  "os_update_snapshots_modified": false
+}

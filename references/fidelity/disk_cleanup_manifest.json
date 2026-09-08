@@ -1,0 +1,19 @@
+{
+  "purpose": "Recover storage for user-requested Unreal installation",
+  "keep": [
+    "iPhone14,2 26.5 (23F77)",
+    "iPhone14,2 26.5.2 (23F84)"
+  ],
+  "remove": [
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone14,2 18.6.2 (22G100)",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone12,1 17.1.2 (21B101)",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone12,1 17.1.1 (21B91)",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/16.5.1 (20F75) arm64e",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone14,2 26.2.1 (23C71)",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone14,2 26.3.1 (23D8133)",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone14,2 26.3.1 (23D771330a)",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/16.6.1 (20G81) arm64e",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/16.6 (20G75) arm64e",
+    "/Users/aditya2610/Library/Developer/Xcode/iOS DeviceSupport/iPhone14,2 26.3 (23D127)"
+  ]
+}

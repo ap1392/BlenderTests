@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "tolerance_cm": 0.01,
+  "assets": [
+    {
+      "id": "SM_CalibrationCube_1m",
+      "max_error_cm": 3.9736429755521385e-06,
+      "passed": true
+    },
+    {
+      "id": "SM_Axis_X",
+      "max_error_cm": 1.1142094876959163e-05,
+      "passed": true
+    },
+    {
+      "id": "SM_Axis_Y",
+      "max_error_cm": 8.034706070247921e-06,
+      "passed": true
+    },
+    {
+      "id": "SM_Axis_Z",
+      "max_error_cm": 9.5367431640625e-06,
+      "passed": true
+    },
+    {
+      "id": "SM_StairRibbon",
+      "max_error_cm": 2.9882191967089966e-05,
+      "passed": true
+    },
+    {
+      "id": "SM_CurvedRail",
+      "max_error_cm": 2.4140379963455416e-05,
+      "passed": true
+    },
+    {
+      "id": "SM_ChairShell",
+      "max_error_cm": 9.126690969196716e-06,
+      "passed": true
+    },
+    {
+      "id": "SM_Glass",
+      "max_error_cm": 0.0005932807807766949,
+      "passed": true
+    }
+  ]
+}

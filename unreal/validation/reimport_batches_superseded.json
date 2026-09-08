@@ -1,0 +1,31 @@
+{
+  "batches": [
+    "SM_L2_Furniture_Solid_139d210685_0",
+    "SM_L2_Furniture_Solid_15e183064d_0",
+    "SM_L2_Furniture_Solid_6609786547_0",
+    "SM_L2_Furniture_Solid_788bce91b1_0",
+    "SM_L2_Furniture_Solid_8a37a8259c_0",
+    "SM_L2_Furniture_Solid_c3516f88e6_0",
+    "SM_L2_Furniture_Solid_de5ceb1cbd_0",
+    "SM_L3_Furniture_Solid_ad23c1460d_0",
+    "SM_L4_Furniture_Solid_04a76a332a_0",
+    "SM_L4_Furniture_Solid_0bb62cf8ce_0",
+    "SM_L4_Furniture_Solid_a791dd197e_0",
+    "SM_L4_Furniture_Solid_e46f035ffe_0",
+    "SM_L4_Furniture_Solid_f2a51d7732_0",
+    "SM_L4_Furniture_Solid_ff01b02731_0",
+    "SM_L5_Furniture_Solid_2c888e3eec_0",
+    "SM_L5_Furniture_Solid_53658024fd_0",
+    "SM_L5_Furniture_Solid_5d9370bbc4_0",
+    "SM_L5_Furniture_Solid_9eac0e17bc_0",
+    "SM_L5_Furniture_Solid_b53db42c9d_0",
+    "SM_L5_Furniture_Solid_d96b396a89_0",
+    "SM_L6_Furniture_Solid_0e633b1ef6_0",
+    "SM_L6_Furniture_Solid_2498831c2c_0",
+    "SM_L6_Furniture_Solid_42fd9eb8cb_0",
+    "SM_L6_Furniture_Solid_923aa47dcc_0",
+    "SM_L6_Furniture_Solid_9585c8bf46_0",
+    "SM_L6_Furniture_Solid_e80479ebcd_0"
+  ],
+  "reason": "Replace referenced zero-length source corner normals with geometric triangle normals"
+}

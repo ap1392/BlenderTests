@@ -1,0 +1,4022 @@
+{
+  "lights": [
+    {
+      "name": "Diffuse afternoon sun",
+      "type": "SUN",
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_radians": [
+        0.3499999940395355,
+        -0.5,
+        2.0999999046325684
+      ],
+      "color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "energy": 1.2000000476837158,
+      "angle": 0.07500000298023224,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Skylight neutral diffuse contribution",
+      "type": "AREA",
+      "location_m": [
+        -12.0,
+        3.299999952316284,
+        27.417600631713867
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        0.8500000238418579,
+        0.9100000262260437,
+        1.0
+      ],
+      "energy": 1100.0,
+      "shape": "DISK",
+      "size": 5.0,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Skylight neutral diffuse contribution.001",
+      "type": "AREA",
+      "location_m": [
+        0.0,
+        4.0,
+        27.417600631713867
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        0.8500000238418579,
+        0.9100000262260437,
+        1.0
+      ],
+      "energy": 1100.0,
+      "shape": "DISK",
+      "size": 7.0,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Skylight neutral diffuse contribution.002",
+      "type": "AREA",
+      "location_m": [
+        12.0,
+        8.0,
+        27.417600631713867
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        0.8500000238418579,
+        0.9100000262260437,
+        1.0
+      ],
+      "energy": 1100.0,
+      "shape": "DISK",
+      "size": 4.5,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy",
+      "type": "AREA",
+      "location_m": [
+        -14.0,
+        11.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.0800000429153442,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.001",
+      "type": "AREA",
+      "location_m": [
+        -10.0,
+        12.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 0.8100000023841858,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.002",
+      "type": "AREA",
+      "location_m": [
+        -6.0,
+        13.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.003",
+      "type": "AREA",
+      "location_m": [
+        -2.0,
+        14.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.0800000429153442,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.004",
+      "type": "AREA",
+      "location_m": [
+        3.0,
+        14.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.005",
+      "type": "AREA",
+      "location_m": [
+        7.0,
+        15.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.006",
+      "type": "AREA",
+      "location_m": [
+        11.0,
+        15.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.007",
+      "type": "AREA",
+      "location_m": [
+        16.0,
+        15.0,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.008",
+      "type": "AREA",
+      "location_m": [
+        18.0,
+        13.403600692749023,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.2599999904632568,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.009",
+      "type": "AREA",
+      "location_m": [
+        13.0,
+        13.45880126953125,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 0.9900000095367432,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.010",
+      "type": "AREA",
+      "location_m": [
+        8.0,
+        13.356449127197266,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Ground drum photometric proxy.011",
+      "type": "AREA",
+      "location_m": [
+        -1.0,
+        12.600000381469727,
+        3.164600133895874
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 76.80000305175781,
+      "shape": "DISK",
+      "size": 0.9900000095367432,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination",
+      "type": "AREA",
+      "location_m": [
+        -21.5,
+        1.0,
+        7.934200286865234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.001",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        4.5,
+        7.934200286865234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.2960000038146973,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.002",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        9.0,
+        7.934200286865234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.003",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        6.0,
+        7.934200286865234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light",
+      "type": "AREA",
+      "location_m": [
+        -18.815998077392578,
+        9.483200073242188,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.001",
+      "type": "AREA",
+      "location_m": [
+        -13.786001205444336,
+        10.978450775146484,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.002",
+      "type": "AREA",
+      "location_m": [
+        -8.631999969482422,
+        12.218399047851562,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.003",
+      "type": "AREA",
+      "location_m": [
+        -3.615750789642334,
+        13.087650299072266,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.004",
+      "type": "AREA",
+      "location_m": [
+        1.4095999002456665,
+        13.730399131774902,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.005",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        14.147150039672852,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.006",
+      "type": "AREA",
+      "location_m": [
+        11.468798637390137,
+        14.351200103759766,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.007",
+      "type": "AREA",
+      "location_m": [
+        16.68979835510254,
+        14.325200080871582,
+        7.3796000480651855
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight",
+      "type": "AREA",
+      "location_m": [
+        1.0,
+        -8.699999809265137,
+        7.149600028991699
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.001",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        3.0,
+        7.149600028991699
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.002",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        7.0,
+        7.149600028991699
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.007",
+      "type": "AREA",
+      "location_m": [
+        -21.5,
+        1.0,
+        12.353799819946289
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.008",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        4.5,
+        12.353799819946289
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.2960000038146973,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.009",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        9.0,
+        12.353799819946289
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.010",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        6.0,
+        12.353799819946289
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.008",
+      "type": "AREA",
+      "location_m": [
+        -18.815998077392578,
+        9.483200073242188,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.009",
+      "type": "AREA",
+      "location_m": [
+        -13.786001205444336,
+        10.978450775146484,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.010",
+      "type": "AREA",
+      "location_m": [
+        -8.631999969482422,
+        12.218399047851562,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.011",
+      "type": "AREA",
+      "location_m": [
+        -3.615750789642334,
+        13.087650299072266,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.012",
+      "type": "AREA",
+      "location_m": [
+        1.4095999002456665,
+        13.730399131774902,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.013",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        14.147150039672852,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.014",
+      "type": "AREA",
+      "location_m": [
+        11.468798637390137,
+        14.351200103759766,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.015",
+      "type": "AREA",
+      "location_m": [
+        16.68979835510254,
+        14.325200080871582,
+        11.799200057983398
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.003",
+      "type": "AREA",
+      "location_m": [
+        1.0,
+        -8.699999809265137,
+        11.569199562072754
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.004",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        3.0,
+        11.569199562072754
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.005",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        7.0,
+        11.569199562072754
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.014",
+      "type": "AREA",
+      "location_m": [
+        -21.5,
+        1.0,
+        16.773399353027344
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.015",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        4.5,
+        16.773399353027344
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.2960000038146973,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.016",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        9.0,
+        16.773399353027344
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.017",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        6.0,
+        16.773399353027344
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.016",
+      "type": "AREA",
+      "location_m": [
+        -18.815998077392578,
+        9.483200073242188,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.017",
+      "type": "AREA",
+      "location_m": [
+        -13.786001205444336,
+        10.978450775146484,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.018",
+      "type": "AREA",
+      "location_m": [
+        -8.631999969482422,
+        12.218399047851562,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.019",
+      "type": "AREA",
+      "location_m": [
+        -3.615750789642334,
+        13.087650299072266,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.020",
+      "type": "AREA",
+      "location_m": [
+        1.4095999002456665,
+        13.730399131774902,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.021",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        14.147150039672852,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.022",
+      "type": "AREA",
+      "location_m": [
+        11.468798637390137,
+        14.351200103759766,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.023",
+      "type": "AREA",
+      "location_m": [
+        16.68979835510254,
+        14.325200080871582,
+        16.218799591064453
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.006",
+      "type": "AREA",
+      "location_m": [
+        1.0,
+        -8.699999809265137,
+        15.988800048828125
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.007",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        3.0,
+        15.988800048828125
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.008",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        7.0,
+        15.988800048828125
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.021",
+      "type": "AREA",
+      "location_m": [
+        -21.5,
+        1.0,
+        21.19300079345703
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.022",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        4.5,
+        21.19300079345703
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.2960000038146973,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.023",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        9.0,
+        21.19300079345703
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.024",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        6.0,
+        21.19300079345703
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.024",
+      "type": "AREA",
+      "location_m": [
+        -18.815998077392578,
+        9.483200073242188,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.025",
+      "type": "AREA",
+      "location_m": [
+        -13.786001205444336,
+        10.978450775146484,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.026",
+      "type": "AREA",
+      "location_m": [
+        -8.631999969482422,
+        12.218399047851562,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.027",
+      "type": "AREA",
+      "location_m": [
+        -3.615750789642334,
+        13.087650299072266,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.028",
+      "type": "AREA",
+      "location_m": [
+        1.4095999002456665,
+        13.730399131774902,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.029",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        14.147150039672852,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.030",
+      "type": "AREA",
+      "location_m": [
+        11.468798637390137,
+        14.351200103759766,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.031",
+      "type": "AREA",
+      "location_m": [
+        16.68979835510254,
+        14.325200080871582,
+        20.638399124145508
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.009",
+      "type": "AREA",
+      "location_m": [
+        1.0,
+        -8.699999809265137,
+        20.40839958190918
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.010",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        3.0,
+        20.40839958190918
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.011",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        7.0,
+        20.40839958190918
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.028",
+      "type": "AREA",
+      "location_m": [
+        -21.5,
+        1.0,
+        25.612600326538086
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.8999999761581421,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.029",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        4.5,
+        25.612600326538086
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.2960000038146973,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.030",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        9.0,
+        25.612600326538086
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 1.1699999570846558,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Lobby drum illumination.031",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        6.0,
+        25.612600326538086
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 57.599998474121094,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.032",
+      "type": "AREA",
+      "location_m": [
+        -18.815998077392578,
+        9.483200073242188,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.033",
+      "type": "AREA",
+      "location_m": [
+        -13.786001205444336,
+        10.978450775146484,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.034",
+      "type": "AREA",
+      "location_m": [
+        -8.631999969482422,
+        12.218399047851562,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.035",
+      "type": "AREA",
+      "location_m": [
+        -3.615750789642334,
+        13.087650299072266,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.036",
+      "type": "AREA",
+      "location_m": [
+        1.4095999002456665,
+        13.730399131774902,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.037",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        14.147150039672852,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.038",
+      "type": "AREA",
+      "location_m": [
+        11.468798637390137,
+        14.351200103759766,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Write-up indirect pendant light.039",
+      "type": "AREA",
+      "location_m": [
+        16.68979835510254,
+        14.325200080871582,
+        25.058000564575195
+      ],
+      "rotation_radians": [
+        -3.141592502593994,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 160.0,
+      "shape": "RECTANGLE",
+      "size": 2.700000047683716,
+      "size_y": 0.15000000596046448,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.012",
+      "type": "AREA",
+      "location_m": [
+        1.0,
+        -8.699999809265137,
+        24.827999114990234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.013",
+      "type": "AREA",
+      "location_m": [
+        -21.0,
+        3.0,
+        24.827999114990234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette and lobby downlight.014",
+      "type": "AREA",
+      "location_m": [
+        21.0,
+        7.0,
+        24.827999114990234
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7900000214576721
+      ],
+      "energy": 84.0,
+      "shape": "DISK",
+      "size": 1.399999976158142,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light",
+      "type": "AREA",
+      "location_m": [
+        -17.964000701904297,
+        14.043049812316895,
+        7.539599895477295
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.001",
+      "type": "AREA",
+      "location_m": [
+        -11.613003730773926,
+        15.85835075378418,
+        7.539599895477295
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.002",
+      "type": "AREA",
+      "location_m": [
+        -5.631250381469727,
+        17.068750381469727,
+        7.539599895477295
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.003",
+      "type": "AREA",
+      "location_m": [
+        0.4026999771595001,
+        17.9200496673584,
+        7.539599895477295
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.004",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        18.4471492767334,
+        7.539599895477295
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.005",
+      "type": "AREA",
+      "location_m": [
+        12.560198783874512,
+        18.65880012512207,
+        7.539599895477295
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.006",
+      "type": "AREA",
+      "location_m": [
+        -17.964000701904297,
+        14.043049812316895,
+        11.959199905395508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.007",
+      "type": "AREA",
+      "location_m": [
+        -11.613003730773926,
+        15.85835075378418,
+        11.959199905395508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.008",
+      "type": "AREA",
+      "location_m": [
+        -5.631250381469727,
+        17.068750381469727,
+        11.959199905395508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.009",
+      "type": "AREA",
+      "location_m": [
+        0.4026999771595001,
+        17.9200496673584,
+        11.959199905395508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.010",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        18.4471492767334,
+        11.959199905395508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.011",
+      "type": "AREA",
+      "location_m": [
+        12.560198783874512,
+        18.65880012512207,
+        11.959199905395508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.012",
+      "type": "AREA",
+      "location_m": [
+        -17.964000701904297,
+        14.043049812316895,
+        16.378799438476562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.013",
+      "type": "AREA",
+      "location_m": [
+        -11.613003730773926,
+        15.85835075378418,
+        16.378799438476562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.014",
+      "type": "AREA",
+      "location_m": [
+        -5.631250381469727,
+        17.068750381469727,
+        16.378799438476562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.015",
+      "type": "AREA",
+      "location_m": [
+        0.4026999771595001,
+        17.9200496673584,
+        16.378799438476562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.016",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        18.4471492767334,
+        16.378799438476562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.017",
+      "type": "AREA",
+      "location_m": [
+        12.560198783874512,
+        18.65880012512207,
+        16.378799438476562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.018",
+      "type": "AREA",
+      "location_m": [
+        -17.964000701904297,
+        14.043049812316895,
+        20.79840087890625
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.019",
+      "type": "AREA",
+      "location_m": [
+        -11.613003730773926,
+        15.85835075378418,
+        20.79840087890625
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.020",
+      "type": "AREA",
+      "location_m": [
+        -5.631250381469727,
+        17.068750381469727,
+        20.79840087890625
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.021",
+      "type": "AREA",
+      "location_m": [
+        0.4026999771595001,
+        17.9200496673584,
+        20.79840087890625
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.022",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        18.4471492767334,
+        20.79840087890625
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.023",
+      "type": "AREA",
+      "location_m": [
+        12.560198783874512,
+        18.65880012512207,
+        20.79840087890625
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.024",
+      "type": "AREA",
+      "location_m": [
+        -17.964000701904297,
+        14.043049812316895,
+        25.218000411987305
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.025",
+      "type": "AREA",
+      "location_m": [
+        -11.613003730773926,
+        15.85835075378418,
+        25.218000411987305
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.026",
+      "type": "AREA",
+      "location_m": [
+        -5.631250381469727,
+        17.068750381469727,
+        25.218000411987305
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.027",
+      "type": "AREA",
+      "location_m": [
+        0.4026999771595001,
+        17.9200496673584,
+        25.218000411987305
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.028",
+      "type": "AREA",
+      "location_m": [
+        6.444100379943848,
+        18.4471492767334,
+        25.218000411987305
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Observed laboratory ceiling light.029",
+      "type": "AREA",
+      "location_m": [
+        12.560198783874512,
+        18.65880012512207,
+        25.218000411987305
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9599999785423279,
+        0.8799999952316284
+      ],
+      "energy": 130.0,
+      "shape": "RECTANGLE",
+      "size": 3.799999952316284,
+      "size_y": 3.0,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight",
+      "type": "AREA",
+      "location_m": [
+        -5.800000190734863,
+        -11.5,
+        7.93120002746582
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.6200000047683716,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.001",
+      "type": "AREA",
+      "location_m": [
+        -4.400000095367432,
+        -9.600000381469727,
+        7.93120002746582
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.002",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -10.699999809265137,
+        7.93120002746582
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.1519999504089355,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.003",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -8.100000381469727,
+        7.93120002746582
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.004",
+      "type": "AREA",
+      "location_m": [
+        -5.800000190734863,
+        -11.5,
+        12.350799560546875
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.6200000047683716,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.005",
+      "type": "AREA",
+      "location_m": [
+        -4.400000095367432,
+        -9.600000381469727,
+        12.350799560546875
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.006",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -10.699999809265137,
+        12.350799560546875
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.1519999504089355,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.007",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -8.100000381469727,
+        12.350799560546875
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.008",
+      "type": "AREA",
+      "location_m": [
+        -5.800000190734863,
+        -11.5,
+        16.770401000976562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.6200000047683716,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.009",
+      "type": "AREA",
+      "location_m": [
+        -4.400000095367432,
+        -9.600000381469727,
+        16.770401000976562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.010",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -10.699999809265137,
+        16.770401000976562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.1519999504089355,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.011",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -8.100000381469727,
+        16.770401000976562
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.012",
+      "type": "AREA",
+      "location_m": [
+        -5.800000190734863,
+        -11.5,
+        21.190000534057617
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.6200000047683716,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.013",
+      "type": "AREA",
+      "location_m": [
+        -4.400000095367432,
+        -9.600000381469727,
+        21.190000534057617
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.014",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -10.699999809265137,
+        21.190000534057617
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.1519999504089355,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.015",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -8.100000381469727,
+        21.190000534057617
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.016",
+      "type": "AREA",
+      "location_m": [
+        -5.800000190734863,
+        -11.5,
+        25.609600067138672
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.6200000047683716,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.017",
+      "type": "AREA",
+      "location_m": [
+        -4.400000095367432,
+        -9.600000381469727,
+        25.609600067138672
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 0.828000009059906,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.018",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -10.699999809265137,
+        25.609600067138672
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.1519999504089355,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Social pod drum downlight.019",
+      "type": "AREA",
+      "location_m": [
+        -2.9000000953674316,
+        -8.100000381469727,
+        25.609600067138672
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.7799999713897705
+      ],
+      "energy": 65.0,
+      "shape": "DISK",
+      "size": 1.440000057220459,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Auditorium entry warm downlight",
+      "type": "AREA",
+      "location_m": [
+        -6.5,
+        -3.799999952316284,
+        2.4800000190734863
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.75,
+        0.46000000834465027
+      ],
+      "energy": 30.0,
+      "shape": "DISK",
+      "size": 0.18000000715255737,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Auditorium entry warm downlight.001",
+      "type": "AREA",
+      "location_m": [
+        -5.900000095367432,
+        -6.199999809265137,
+        2.4800000190734863
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.75,
+        0.46000000834465027
+      ],
+      "energy": 30.0,
+      "shape": "DISK",
+      "size": 0.18000000715255737,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Auditorium entry warm downlight.002",
+      "type": "AREA",
+      "location_m": [
+        -6.099999904632568,
+        -8.199999809265137,
+        2.4800000190734863
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.75,
+        0.46000000834465027
+      ],
+      "energy": 30.0,
+      "shape": "DISK",
+      "size": 0.18000000715255737,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight",
+      "type": "AREA",
+      "location_m": [
+        -0.75,
+        -8.899999618530273,
+        7.1296000480651855
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.001",
+      "type": "AREA",
+      "location_m": [
+        -0.699999988079071,
+        -7.699999809265137,
+        7.1296000480651855
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.002",
+      "type": "AREA",
+      "location_m": [
+        0.20000000298023224,
+        -6.550000190734863,
+        7.1296000480651855
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.003",
+      "type": "AREA",
+      "location_m": [
+        -0.75,
+        -8.899999618530273,
+        11.549200057983398
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.004",
+      "type": "AREA",
+      "location_m": [
+        -0.699999988079071,
+        -7.699999809265137,
+        11.549200057983398
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.005",
+      "type": "AREA",
+      "location_m": [
+        0.20000000298023224,
+        -6.550000190734863,
+        11.549200057983398
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.006",
+      "type": "AREA",
+      "location_m": [
+        -0.75,
+        -8.899999618530273,
+        15.968799591064453
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.007",
+      "type": "AREA",
+      "location_m": [
+        -0.699999988079071,
+        -7.699999809265137,
+        15.968799591064453
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.008",
+      "type": "AREA",
+      "location_m": [
+        0.20000000298023224,
+        -6.550000190734863,
+        15.968799591064453
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.009",
+      "type": "AREA",
+      "location_m": [
+        -0.75,
+        -8.899999618530273,
+        20.388399124145508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.010",
+      "type": "AREA",
+      "location_m": [
+        -0.699999988079071,
+        -7.699999809265137,
+        20.388399124145508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.011",
+      "type": "AREA",
+      "location_m": [
+        0.20000000298023224,
+        -6.550000190734863,
+        20.388399124145508
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.012",
+      "type": "AREA",
+      "location_m": [
+        -0.75,
+        -8.899999618530273,
+        24.808000564575195
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.013",
+      "type": "AREA",
+      "location_m": [
+        -0.699999988079071,
+        -7.699999809265137,
+        24.808000564575195
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    },
+    {
+      "name": "Kitchenette photo canopy warm downlight.014",
+      "type": "AREA",
+      "location_m": [
+        0.20000000298023224,
+        -6.550000190734863,
+        24.808000564575195
+      ],
+      "rotation_radians": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "color_linear": [
+        1.0,
+        0.800000011920929,
+        0.6000000238418579
+      ],
+      "energy": 20.0,
+      "shape": "DISK",
+      "size": 0.1599999964237213,
+      "size_y": 0.25,
+      "spread": 3.1415927410125732,
+      "shadow_soft_size": 0.0
+    }
+  ],
+  "world_nodes": [
+    {
+      "type": "ShaderNodeOutputWorld",
+      "name": "World Output",
+      "inputs": {}
+    },
+    {
+      "type": "ShaderNodeBackground",
+      "name": "Background",
+      "inputs": {
+        "Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Strength": 0.1899999976158142,
+        "Weight": 0.0
+      }
+    },
+    {
+      "type": "ShaderNodeTexSky",
+      "name": "Sky Texture",
+      "sky_type": "MULTIPLE_SCATTERING",
+      "sun_direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "sun_elevation": 0.5799999833106995,
+      "sun_rotation": 2.0999999046325684,
+      "sun_intensity": 1.0,
+      "altitude": 0.05000000074505806,
+      "air_density": 1.0,
+      "ozone_density": 1.0,
+      "inputs": {
+        "Vector": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ],
+  "exposure": 0.699999988079071,
+  "note": "Blender watts are not directly interchangeable with Unreal lux/lumens; positions and orientation are authoritative, intensity needs rendered calibration."
+}

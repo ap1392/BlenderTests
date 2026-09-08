@@ -1,0 +1,11 @@
+{
+  "revision": "post60",
+  "objects": 15524,
+  "reference_cameras": 12,
+  "unique_meshes_scanned": 14412,
+  "nonfinite_meshes": [],
+  "furniture_support_items_checked": 153,
+  "unsupported_sampled_items": [],
+  "minimum_stool_to_column_clearance_m": 0.24149161752685883,
+  "scope": "Sampled support and finite-coordinate checks, not exhaustive collision or code compliance."
+}

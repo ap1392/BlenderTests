@@ -1,0 +1,53 @@
+{
+  "complete": true,
+  "revision": "polish67",
+  "remaining": [],
+  "results": [
+    {
+      "camera": "CINE_01_Atrium",
+      "frame": 144,
+      "width": 3840,
+      "height": 2160,
+      "samples": 256,
+      "seconds": 639.9403603076935,
+      "file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_01_Atrium.png"
+    },
+    {
+      "camera": "CINE_02_Lower_stair",
+      "frame": 432,
+      "width": 3840,
+      "height": 2160,
+      "samples": 256,
+      "seconds": 522.3726351261139,
+      "file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_02_Lower_stair.png"
+    },
+    {
+      "camera": "CINE_03_Upper_ribbon",
+      "frame": 720,
+      "width": 3840,
+      "height": 2160,
+      "samples": 256,
+      "seconds": 523.4506759643555,
+      "file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_03_Upper_ribbon.png"
+    },
+    {
+      "camera": "CINE_04_Social_hub",
+      "frame": 1008,
+      "width": 3840,
+      "height": 2160,
+      "samples": 256,
+      "seconds": 467.22993302345276,
+      "file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_04_Social_hub.png"
+    },
+    {
+      "camera": "CINE_05_Stair_well",
+      "frame": 1296,
+      "width": 3840,
+      "height": 2160,
+      "samples": 256,
+      "seconds": 726.938169002533,
+      "file": "/Users/aditya2610/Desktop/Projects3/BlenderTests/renders/cinematic/cycles_heroes/CINE_05_Stair_well.png"
+    }
+  ],
+  "runner": "background CLI"
+}
