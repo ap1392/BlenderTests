@@ -12,7 +12,7 @@ this project presents its evaluated geometry, with import-specific shading fixes
 - Confidence map: `../references/fidelity/cinematic_confidence_map.md`
 
 The 72-second 4K movie is encoded and technically verified; full moving-image
-visual review remains pending. Download it from the repository cinematic release. The presets specify 3840×2160, TSR with eight temporal
+visual review remains pending. The MP4 remains local; release upload is pending approval. The presets specify 3840×2160, TSR with eight temporal
 samples, software Lumen, and modest motion blur. Hardware ray tracing and Nanite
 are disabled in this Mac presentation configuration. Final presets use 64 render
 warm-up samples and a higher local-light shadow cap than the review presets.

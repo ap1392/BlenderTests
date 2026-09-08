@@ -13,7 +13,7 @@ Start with **[the editable Blender master](blender/ISEC_Master.blend)**. This re
 | Earlier Blender checkpoints and scripts | [blender](blender) |
 | Complete Unreal project | [unreal/ISEC_Cinematic](unreal/ISEC_Cinematic) |
 | Unreal project entry point | [ISEC_Cinematic.uproject](unreal/ISEC_Cinematic/ISEC_Cinematic.uproject) |
-| 72-second 4K cinematic MP4 | [Download from the cinematic release](https://github.com/ap1392/BlenderTests/releases/tag/isec-cinematic-v1) |
+| 72-second 4K cinematic MP4 | `renders/cinematic/ISEC_72s_4K.mp4` — local file; release upload pending approval |
 | Five Blender Cycles 4K hero stills | [renders/cinematic/cycles_heroes](renders/cinematic/cycles_heroes) |
 | Earlier interactive browser prototype | [web](web) |
 | Exported browser model | [web/public/models/ISEC.glb](web/public/models/ISEC.glb) |
@@ -29,7 +29,7 @@ For the earlier browser prototype, see [web/README.md](web/README.md). It predat
 
 The Unreal movie has been encoded and technically verified at **3840×2160, 24 fps, 72 seconds, 1,728 frames**. All six standalone rendering jobs exited successfully. **Full moving-image visual review remains pending**; this is not a claim of final visual approval. The five Cycles hero stills are 4K, 256-sample renders from the Blender master.
 
-The complete raw image sequence is preserved locally at `renders/cinematic/unreal/frames`, but excluded from Git because it is approximately 17 GB. The MP4 is supplied as a release attachment. Generated caches, dependencies, temporary jobs and crash logs are also excluded. No local source files or raw frames are deleted by these exclusions.
+The complete raw image sequence is preserved locally at `renders/cinematic/unreal/frames`, but excluded from Git because it is approximately 17 GB. The MP4 remains local pending approval to publish it as a release attachment. Generated caches, dependencies, temporary jobs and crash logs are also excluded. No local source files or raw frames are deleted by these exclusions.
 
 This is a reference-informed architectural reconstruction, not an as-built survey. See the confidence map for inferred dimensions, hidden details and material approximations. Do not rerun `blender/scripts/build_isec.py` to open this model: it is the original destructive prototype builder. Open the saved master instead.
 
